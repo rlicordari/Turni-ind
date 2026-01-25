@@ -1,0 +1,2 @@
+ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,note_changed_count,details_json,app_build
+2026-01-25T08:43:51Z,Licordari,2026-02,save,14,15,1,0,0,"{""added"": [{""date"": ""2026-02-28"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-01-25-ui-v6
