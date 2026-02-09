@@ -1,3 +1,4 @@
 ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,note_changed_count,details_json,app_build
 2026-01-28T09:46:41Z,Licordari,2026-03,save,2,3,1,0,0,"{""added"": [{""date"": ""2026-03-26"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-01-25-ui-v6
 2026-01-28T09:46:43Z,Allegra,2026-03,save,0,3,3,0,0,"{""added"": [{""date"": ""2026-03-01"", ""shift"": ""Mattina""}, {""date"": ""2026-03-16"", ""shift"": ""Notte""}, {""date"": ""2026-03-20"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-01-25-ui-v6
+2026-02-09T18:54:56Z,Licordari,2026-03,save,3,3,1,1,0,"{""added"": [{""date"": ""2026-03-26"", ""shift"": ""Mattina""}], ""removed"": [{""date"": ""2026-03-26"", ""shift"": ""Tutto il giorno""}], ""note_changed"": []}",2026-02-01-ui-v7
