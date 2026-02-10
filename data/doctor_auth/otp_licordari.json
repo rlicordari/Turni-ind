@@ -8,5 +8,6 @@
   "expires_at": "2026-02-10T20:03:25Z",
   "attempts": 0,
   "max_attempts": 5,
-  "app_build": "2026-02-01-ui-v7"
+  "app_build": "2026-02-01-ui-v7",
+  "used_at": "2026-02-10T19:54:12Z"
 }
