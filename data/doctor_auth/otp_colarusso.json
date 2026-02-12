@@ -1,0 +1,12 @@
+{
+  "doctor": "Colarusso",
+  "channel": "email",
+  "dest_masked": "do***@gmail.com",
+  "salt_b64": "OvIXqSuXwxwwO5NREIXErQ==",
+  "code_hash_b64": "NeCpyopz01ZoHGTLw8lRXxhu+YL354qxDTnPRN/CUUg=",
+  "created_at": "2026-02-12T10:49:57Z",
+  "expires_at": "2026-02-12T10:59:57Z",
+  "attempts": 0,
+  "max_attempts": 5,
+  "app_build": "2026-02-01-ui-v7"
+}
