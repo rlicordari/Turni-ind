@@ -1,8 +1,8 @@
 {
   "doctor": "Colarusso",
-  "session_id": "be5132d0-cb98-4bad-9c69-1f7944ac6627",
-  "issued_at": "2026-02-12T11:17:33Z",
-  "last_seen": "2026-02-12T11:24:08Z",
-  "expires_at": "2026-02-12T11:44:08Z",
+  "session_id": "de967e80-cd44-4642-8ea0-beb85c6534df",
+  "issued_at": "2026-02-12T11:24:32Z",
+  "last_seen": "2026-02-12T11:24:32Z",
+  "expires_at": "2026-02-12T11:44:32Z",
   "app_build": "2026-02-01-ui-v7"
 }
