@@ -1,0 +1,8 @@
+{
+  "doctor": "Colarusso",
+  "salt_b64": "FJ4iZFcDHyaAL+Y5IODniw==",
+  "hash_b64": "YMU1r085bWkVmHHmlE33OYXLmAWZF6Ztobu9mICWrvE=",
+  "iters": 200000,
+  "pin_updated_at": "2026-02-12T10:50:28Z",
+  "app_build": "2026-02-01-ui-v7"
+}
