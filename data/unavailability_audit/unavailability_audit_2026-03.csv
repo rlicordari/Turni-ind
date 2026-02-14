@@ -12,3 +12,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-02-12T11:24:09Z,Colarusso,2026-03,save,8,10,2,0,0,"{""added"": [{""date"": ""2026-03-25"", ""shift"": ""Notte""}, {""date"": ""2026-03-29"", ""shift"": ""Notte""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-02-12T16:43:35Z,Licordari,2026-03,save,0,2,2,0,0,"{""added"": [{""date"": ""2026-03-01"", ""shift"": ""Mattina""}, {""date"": ""2026-03-18"", ""shift"": ""Mattina""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-02-12T17:03:49Z,Licordari,2026-03,save,2,3,1,0,0,"{""added"": [{""date"": ""2026-03-01"", ""shift"": ""Pomeriggio""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-02-14T11:12:03Z,Licordari,2026-03,save,3,3,1,1,0,"{""added"": [{""date"": ""2026-03-05"", ""shift"": ""Pomeriggio""}], ""removed"": [{""date"": ""2026-03-01"", ""shift"": ""Pomeriggio""}], ""note_changed"": []}",2026-02-01-ui-v7
