@@ -1,0 +1,8 @@
+{
+  "doctor": "Cimino",
+  "salt_b64": "KkT9lhONP6coOG/oGeMyyQ==",
+  "hash_b64": "1IiTTR4LHQQ4btN/LKAIBF4FtVxZnP/ROzFlmMeRT7w=",
+  "iters": 200000,
+  "pin_updated_at": "2026-02-14T18:41:57Z",
+  "app_build": "2026-02-01-ui-v7"
+}
