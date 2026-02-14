@@ -1,0 +1,8 @@
+{
+  "doctor": "Allegra",
+  "salt_b64": "dtybbxdHH2C9s6uQxTxGmA==",
+  "hash_b64": "aRx0lD+wYGEHE9O4jHz9B53x2qzfPi4EfNdSPuwuGEM=",
+  "iters": 200000,
+  "pin_updated_at": "2026-02-14T11:13:08Z",
+  "app_build": "2026-02-01-ui-v7"
+}
