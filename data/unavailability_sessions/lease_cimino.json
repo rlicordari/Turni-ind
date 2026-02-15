@@ -1,8 +1,8 @@
 {
   "doctor": "Cimino",
-  "session_id": "cc2b5671-99a9-4ae5-9df3-abdde08371d9",
-  "issued_at": "2026-02-15T15:03:42Z",
-  "last_seen": "2026-02-15T15:03:42Z",
-  "expires_at": "2026-02-15T15:23:42Z",
+  "session_id": "d1baea1b-3944-41f5-89dc-7cc79253dfcb",
+  "issued_at": "2026-02-15T15:04:38Z",
+  "last_seen": "2026-02-15T15:04:38Z",
+  "expires_at": "2026-02-15T15:24:38Z",
   "app_build": "2026-02-01-ui-v7"
 }
