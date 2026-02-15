@@ -17,3 +17,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-02-14T19:52:33Z,Licordari,2026-03,save,3,4,1,0,0,"{""added"": [{""date"": ""2026-03-13"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-02-14T20:54:55Z,Licordari,2026-03,save,4,5,1,0,0,"{""added"": [{""date"": ""2026-03-01"", ""shift"": ""Diurno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-02-14T21:02:15Z,Licordari,2026-03,save,5,5,1,1,0,"{""added"": [{""date"": ""2026-03-27"", ""shift"": ""Tutto il giorno""}], ""removed"": [{""date"": ""2026-03-01"", ""shift"": ""Diurno""}], ""note_changed"": []}",2026-02-01-ui-v7
+2026-02-15T16:16:33Z,Licordari,2026-03,save,5,5,1,1,0,"{""added"": [{""date"": ""2026-03-27"", ""shift"": ""Notte""}], ""removed"": [{""date"": ""2026-03-27"", ""shift"": ""Tutto il giorno""}], ""note_changed"": []}",2026-02-01-ui-v7
