@@ -1,0 +1,8 @@
+{
+  "doctor": "Trio",
+  "salt_b64": "aQFnDpZHC6g3iX2bGbG3cw==",
+  "hash_b64": "Hcn3e2cl6fDYqd722XyZ7q9J2HFlyKXiXFAa6/e/rDA=",
+  "iters": 200000,
+  "pin_updated_at": "2026-02-16T10:11:15Z",
+  "app_build": "2026-02-01-ui-v7"
+}
