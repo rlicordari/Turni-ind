@@ -1,0 +1,8 @@
+{
+  "doctor": "Manganaro",
+  "salt_b64": "8ALad1SquVqHs4YL7SBIWg==",
+  "hash_b64": "hSKYeTc5THd7VoWV0ZS9aXJ5sD/UKnEUD9weGUBkapg=",
+  "iters": 200000,
+  "pin_updated_at": "2026-02-16T16:00:02Z",
+  "app_build": "2026-02-01-ui-v7"
+}
