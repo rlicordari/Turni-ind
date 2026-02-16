@@ -28,3 +28,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-02-16T16:12:50Z,Manganaro,2026-03,save,4,5,1,0,0,"{""added"": [{""date"": ""2026-03-21"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-02-16T16:13:08Z,Manganaro,2026-03,save,5,6,1,0,0,"{""added"": [{""date"": ""2026-03-22"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-02-16T16:13:24Z,Manganaro,2026-03,save,6,7,1,0,0,"{""added"": [{""date"": ""2026-03-30"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-02-16T16:13:40Z,Manganaro,2026-03,save,7,8,1,0,0,"{""added"": [{""date"": ""2026-03-31"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
