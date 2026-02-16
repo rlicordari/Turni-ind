@@ -1,0 +1,8 @@
+{
+  "doctor": "Cusmà",
+  "salt_b64": "YZPCPzP5URfF38W+FoMj8w==",
+  "hash_b64": "oF+5vzQAotWAFWUpuGlpridkVaHRP7ICK1N+Ej9JR0o=",
+  "iters": 200000,
+  "pin_updated_at": "2026-02-16T22:07:56Z",
+  "app_build": "2026-02-01-ui-v7"
+}
