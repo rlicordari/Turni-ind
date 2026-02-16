@@ -1,0 +1,8 @@
+{
+  "doctor": "Crea",
+  "salt_b64": "bM/k7e1jePpUOJkR/xz9Mw==",
+  "hash_b64": "KhoN+uoHaQL6NxK84zq4804PysSV4W/tLOVXVJrYmAQ=",
+  "iters": 200000,
+  "pin_updated_at": "2026-02-16T11:08:33Z",
+  "app_build": "2026-02-01-ui-v7"
+}
