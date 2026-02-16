@@ -1,0 +1,12 @@
+{
+  "doctor": "Crea",
+  "channel": "email",
+  "dest_masked": "pa***@gmail.com",
+  "salt_b64": "oF4tPxdAOxZhRaazR/xxEA==",
+  "code_hash_b64": "QdT6jY5NCIdYjlresnIQKSPrfnRymTNHgZDuSKivWcs=",
+  "created_at": "2026-02-16T11:08:01Z",
+  "expires_at": "2026-02-16T11:18:00Z",
+  "attempts": 0,
+  "max_attempts": 5,
+  "app_build": "2026-02-01-ui-v7"
+}
