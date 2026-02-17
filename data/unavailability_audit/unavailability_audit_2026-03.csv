@@ -40,3 +40,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-02-17T08:56:52Z,Licordari,2026-03,save,5,8,3,0,0,"{""added"": [{""date"": ""2026-03-12"", ""shift"": ""Tutto il giorno""}, {""date"": ""2026-03-13"", ""shift"": ""Tutto il giorno""}, {""date"": ""2026-03-14"", ""shift"": ""Mattina""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-02-17T08:57:10Z,Licordari,2026-03,save,8,9,1,0,0,"{""added"": [{""date"": ""2026-03-10"", ""shift"": ""Pomeriggio""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-02-17T08:57:25Z,Licordari,2026-03,save,9,10,1,0,0,"{""added"": [{""date"": ""2026-03-17"", ""shift"": ""Pomeriggio""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-02-17T08:57:47Z,Licordari,2026-03,save,10,12,2,0,0,"{""added"": [{""date"": ""2026-03-19"", ""shift"": ""Diurno""}, {""date"": ""2026-03-26"", ""shift"": ""Diurno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
