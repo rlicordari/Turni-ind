@@ -1,0 +1,8 @@
+{
+  "doctor": "Grimaldi",
+  "salt_b64": "C9Xxy4OG9NLRnwJA5Gpf+A==",
+  "hash_b64": "jeaQAXpm0/zie1kK41FZFk0d0FessbkWsKrDn9f0GEs=",
+  "iters": 200000,
+  "pin_updated_at": "2026-02-18T07:11:19Z",
+  "app_build": "2026-02-01-ui-v7"
+}
