@@ -1,0 +1,8 @@
+{
+  "doctor": "D'Angelo",
+  "salt_b64": "ncE00mUZMm7fqa7e/X5vPA==",
+  "hash_b64": "zNQIP5QCE65yDU+5mEPo+gi7fcFujdtH1XzqQqLkWH4=",
+  "iters": 200000,
+  "pin_updated_at": "2026-02-18T18:19:34Z",
+  "app_build": "2026-02-01-ui-v7"
+}
