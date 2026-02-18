@@ -1,0 +1,8 @@
+{
+  "doctor": "Recupero",
+  "salt_b64": "ebYEJBGcU+AbYCOOOZ9K1g==",
+  "hash_b64": "cJS8jgtQ4xLdnQRyZ+MrDVQFz2cKq3hmC8IfptUUwd4=",
+  "iters": 200000,
+  "pin_updated_at": "2026-02-18T11:23:44Z",
+  "app_build": "2026-02-01-ui-v7"
+}
