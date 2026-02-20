@@ -1,0 +1,8 @@
+{
+  "doctor": "De Gregorio",
+  "salt_b64": "U1sYmCrEQ06orinxDdsykg==",
+  "hash_b64": "QZrh6L47Skt/WFSu16qu20/eJ/iIuebzEcdAhUcZiL4=",
+  "iters": 200000,
+  "pin_updated_at": "2026-02-20T08:52:12Z",
+  "app_build": "2026-02-01-ui-v7"
+}
