@@ -1,0 +1,12 @@
+{
+  "doctor": "Dattilo",
+  "channel": "email",
+  "dest_masked": "gi***@unime.it",
+  "salt_b64": "O0oQ+CxSz5bjthdpCs0N6A==",
+  "code_hash_b64": "h5eaG5isWZE+acA9tud6z5eUXf3HS67nPzDW0qbrZe0=",
+  "created_at": "2026-02-21T17:09:01Z",
+  "expires_at": "2026-02-21T17:19:01Z",
+  "attempts": 0,
+  "max_attempts": 5,
+  "app_build": "2026-02-01-ui-v7"
+}
