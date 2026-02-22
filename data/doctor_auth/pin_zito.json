@@ -1,0 +1,8 @@
+{
+  "doctor": "Zito",
+  "salt_b64": "dHosvsOhZoYkhb3i7uugiw==",
+  "hash_b64": "p1QvpfbhQdLqO7SNmWYtUobZ+b1cGdWWSulUvuNO1lw=",
+  "iters": 200000,
+  "pin_updated_at": "2026-02-22T09:14:28Z",
+  "app_build": "2026-02-01-ui-v7"
+}
