@@ -66,3 +66,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-02-22T09:17:23Z,Zito,2026-03,save,1,1,1,1,0,"{""added"": [{""date"": ""2026-03-04"", ""shift"": ""Tutto il giorno""}], ""removed"": [{""date"": ""2026-03-04"", ""shift"": ""Mattina""}], ""note_changed"": []}",2026-02-01-ui-v7
 2026-02-22T09:18:00Z,Zito,2026-03,save,1,2,1,0,0,"{""added"": [{""date"": ""2026-03-05"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-02-22T09:18:14Z,Zito,2026-03,save,2,3,1,0,0,"{""added"": [{""date"": ""2026-03-06"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-02-22T09:18:30Z,Zito,2026-03,save,3,4,1,0,0,"{""added"": [{""date"": ""2026-03-07"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
