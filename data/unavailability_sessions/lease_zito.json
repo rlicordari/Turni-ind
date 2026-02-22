@@ -1,8 +1,8 @@
 {
   "doctor": "Zito",
-  "session_id": "2409ed2a-a864-493a-b5e6-0810236dff2e",
-  "issued_at": "2026-02-22T09:45:31Z",
-  "last_seen": "2026-02-22T09:47:19Z",
-  "expires_at": "2026-02-22T10:07:19Z",
+  "session_id": "e4290f11-8007-451f-85f8-792dc1aedb7f",
+  "issued_at": "2026-02-22T09:47:54Z",
+  "last_seen": "2026-02-22T09:47:54Z",
+  "expires_at": "2026-02-22T10:07:54Z",
   "app_build": "2026-02-01-ui-v7"
 }
