@@ -1,4 +1,5 @@
-unavailability_open: false
+unavailability_open: true
 max_unavailability_per_shift: 6
-updated_at: '2026-02-23T19:54:26Z'
+max_availability_per_shift: 6
+updated_at: '2026-03-08T11:25:06Z'
 updated_by: admin
