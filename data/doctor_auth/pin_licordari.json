@@ -1,8 +1,8 @@
 {
   "doctor": "Licordari",
-  "salt_b64": "tOOxzNWQRw4dHwX/fGHeVw==",
-  "hash_b64": "V55dSYguSd9n8XgFg6T+B5Qk/KDL2jtCdgi40kJRMRc=",
+  "salt_b64": "kPaWBOF7xkh+IPCUQFKOwg==",
+  "hash_b64": "LmmDXO2u4WUnF7q0iQsWO1chLPcbwkKy1mC97N/5ehQ=",
   "iters": 200000,
-  "pin_updated_at": "2026-02-10T19:54:13Z",
+  "pin_updated_at": "2026-03-21T16:42:21Z",
   "app_build": "2026-02-01-ui-v7"
 }
