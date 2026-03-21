@@ -2,12 +2,12 @@
   "doctor": "Licordari",
   "channel": "email",
   "dest_masked": "ro***@gmail.com",
-  "salt_b64": "D77xl/jl3pLLnuCVOcobLQ==",
-  "code_hash_b64": "UVzmQgohHLfCcTc7SfIGGpZC1+lHwG/Weax7jSZxL3A=",
-  "created_at": "2026-03-21T08:26:58Z",
-  "expires_at": "2026-03-21T08:36:58Z",
+  "salt_b64": "mPGKTTjhr+NxOYjDS+DRUA==",
+  "code_hash_b64": "DNfRpsnvWmV+MyeNayRxaA7W0WZz/1kG3K+KZWr71ss=",
+  "created_at": "2026-03-21T16:41:43Z",
+  "expires_at": "2026-03-21T16:51:43Z",
   "attempts": 0,
   "max_attempts": 5,
   "app_build": "2026-02-01-ui-v7",
-  "used_at": "2026-02-10T19:54:12Z"
+  "used_at": null
 }
