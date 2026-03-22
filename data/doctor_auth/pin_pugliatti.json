@@ -1,8 +1,8 @@
 {
   "doctor": "Pugliatti",
-  "salt_b64": "KK98UKoYeR9/p1cpTWnBHA==",
-  "hash_b64": "9bBq/ZkCTsjGPNhNcSNRri+ckY5Yne1RQpXamUEbgkc=",
+  "salt_b64": "qbYMBNMHOyYSH8ugOVhsaA==",
+  "hash_b64": "2uiZ1bt0iCLhlJJ5Z4luWsijt8wPSbE5TXb0m0W8SXc=",
   "iters": 200000,
-  "pin_updated_at": "2026-02-16T19:10:26Z",
+  "pin_updated_at": "2026-03-22T21:55:12Z",
   "app_build": "2026-02-01-ui-v7"
 }
