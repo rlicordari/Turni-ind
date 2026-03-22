@@ -2,12 +2,12 @@
   "doctor": "Migliorato",
   "channel": "email",
   "dest_masked": "al***@polime.it",
-  "salt_b64": "cPGYGyiqAUPN6TUFAetchQ==",
-  "code_hash_b64": "8aWf7EB9MvXK9L8sgNqaZaqm389KJ+KjEiTmqVISe0s=",
-  "created_at": "2026-02-16T16:22:23Z",
-  "expires_at": "2026-02-16T16:32:22Z",
+  "salt_b64": "gqVMKGzdqMl25P0F9AyN1g==",
+  "code_hash_b64": "e/ZK+OeaoWhZ0ltQX+2mCBh+F6GTI2QHHcCH9xNjr5c=",
+  "created_at": "2026-03-22T17:01:52Z",
+  "expires_at": "2026-03-22T17:11:52Z",
   "attempts": 0,
   "max_attempts": 5,
   "app_build": "2026-02-01-ui-v7",
-  "used_at": "2026-02-16T16:23:32Z"
+  "used_at": null
 }
