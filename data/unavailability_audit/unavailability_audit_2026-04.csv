@@ -63,3 +63,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-03-22T06:47:33Z,Recupero,2026-04,save,3,4,1,0,0,"{""added"": [{""date"": ""2026-04-11"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-03-22T06:48:00Z,Recupero,2026-04,save,4,5,1,0,0,"{""added"": [{""date"": ""2026-04-18"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-03-22T06:48:29Z,Recupero,2026-04,save,5,6,1,0,0,"{""added"": [{""date"": ""2026-04-30"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-03-22T09:03:20Z,Licordari,2026-04,save,9,10,1,0,0,"{""added"": [{""date"": ""2026-04-07"", ""shift"": ""Pomeriggio""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
