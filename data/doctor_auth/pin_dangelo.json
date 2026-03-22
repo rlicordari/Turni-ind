@@ -1,8 +1,8 @@
 {
   "doctor": "D'Angelo",
-  "salt_b64": "ncE00mUZMm7fqa7e/X5vPA==",
-  "hash_b64": "zNQIP5QCE65yDU+5mEPo+gi7fcFujdtH1XzqQqLkWH4=",
+  "salt_b64": "fTqNanVlxwKXfbayq1Ul2A==",
+  "hash_b64": "rnm812pnBY/bqcH6Wq1JX+OKyEFqPLsRcqB6+GuT4is=",
   "iters": 200000,
-  "pin_updated_at": "2026-02-18T18:19:34Z",
+  "pin_updated_at": "2026-03-22T22:02:30Z",
   "app_build": "2026-02-01-ui-v7"
 }
