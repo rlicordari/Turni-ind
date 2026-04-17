@@ -1,8 +1,8 @@
 {
   "doctor": "Licordari",
-  "session_id": "d201f963-babc-416d-be4a-330f526af54a",
-  "issued_at": "2026-04-17T09:07:32Z",
-  "last_seen": "2026-04-17T09:10:22Z",
-  "expires_at": "2026-04-17T09:30:22Z",
+  "session_id": "021ae7fa-501b-455d-8274-dcf5fdc8c46a",
+  "issued_at": "2026-04-17T09:10:40Z",
+  "last_seen": "2026-04-17T09:10:40Z",
+  "expires_at": "2026-04-17T09:30:40Z",
   "app_build": "2026-02-01-ui-v7"
 }
