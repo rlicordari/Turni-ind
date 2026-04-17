@@ -23,3 +23,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-04-17T07:26:34Z,Trio,2026-05,save,11,12,1,0,0,"{""added"": [{""date"": ""2026-05-01"", ""shift"": ""Diurno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-04-17T07:27:02Z,De Gregorio,2026-05,save,6,6,1,1,1,"{""added"": [{""date"": ""2026-05-07"", ""shift"": ""Diurno""}], ""removed"": [{""date"": ""2026-05-07"", ""shift"": ""Pomeriggio""}], ""note_changed"": [{""date"": ""2026-05-05"", ""shift"": ""Tutto il giorno""}]}",2026-02-01-ui-v7
 2026-04-17T07:34:43Z,De Gregorio,2026-05,save,6,7,1,0,0,"{""added"": [{""date"": ""2026-05-12"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-04-17T07:35:19Z,De Gregorio,2026-05,save,7,8,1,0,0,"{""added"": [{""date"": ""2026-05-13"", ""shift"": ""Diurno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
