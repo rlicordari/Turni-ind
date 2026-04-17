@@ -36,3 +36,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-04-17T20:14:06Z,Manganaro,2026-05,save,0,1,1,0,0,"{""added"": [{""date"": ""2026-05-01"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-04-17T20:16:09Z,Manganaro,2026-05,save,1,2,1,0,0,"{""added"": [{""date"": ""2026-05-03"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-04-17T20:16:51Z,Manganaro,2026-05,save,2,4,2,0,0,"{""added"": [{""date"": ""2026-05-04"", ""shift"": ""Pomeriggio""}, {""date"": ""2026-05-10"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-04-17T20:17:35Z,Manganaro,2026-05,save,4,6,2,0,0,"{""added"": [{""date"": ""2026-05-12"", ""shift"": ""Pomeriggio""}, {""date"": ""2026-05-16"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
