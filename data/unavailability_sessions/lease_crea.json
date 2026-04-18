@@ -1,8 +1,8 @@
 {
   "doctor": "Crea",
-  "session_id": "abf34daf-57b2-4f1a-9225-da6d00fb2774",
-  "issued_at": "2026-04-18T19:12:26Z",
-  "last_seen": "2026-04-18T19:17:06Z",
-  "expires_at": "2026-04-18T19:37:06Z",
+  "session_id": "fb57742e-2752-43f2-9602-9738483bc80b",
+  "issued_at": "2026-04-18T19:19:41Z",
+  "last_seen": "2026-04-18T19:19:41Z",
+  "expires_at": "2026-04-18T19:39:41Z",
   "app_build": "2026-02-01-ui-v7"
 }
