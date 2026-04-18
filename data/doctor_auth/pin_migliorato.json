@@ -1,8 +1,8 @@
 {
   "doctor": "Migliorato",
-  "salt_b64": "Rhl2RS5ifNZ9BFu8KWq1cQ==",
-  "hash_b64": "+3Y5CoXKQ4WTKBcoruT/w+T4rtZM2PMIgxgIyQixa1A=",
+  "salt_b64": "Nq7+8nT8p8X76bdVEZ50uA==",
+  "hash_b64": "B0YS8gr1bhcUipAAsSkTZz2ak6U5O0Q82DP96htY7zQ=",
   "iters": 200000,
-  "pin_updated_at": "2026-03-22T17:03:07Z",
+  "pin_updated_at": "2026-04-18T15:12:12Z",
   "app_build": "2026-02-01-ui-v7"
 }
