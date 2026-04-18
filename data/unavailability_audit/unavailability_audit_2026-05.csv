@@ -44,3 +44,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-04-18T15:41:46Z,Allegra,2026-05,save,10,11,1,0,0,"{""added"": [{""date"": ""2026-05-10"", ""shift"": ""Notte""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-04-18T17:43:39Z,Migliorato,2026-05,save,10,10,1,1,0,"{""added"": [{""date"": ""2026-05-10"", ""shift"": ""Tutto il giorno""}], ""removed"": [{""date"": ""2026-05-03"", ""shift"": ""Ferie""}], ""note_changed"": []}",2026-02-01-ui-v7
 2026-04-18T17:57:05Z,Grimaldi,2026-05,save,0,1,1,0,0,"{""added"": [{""date"": ""2026-05-01"", ""shift"": ""Mattina""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-04-18T17:57:51Z,Grimaldi,2026-05,save,1,1,1,1,0,"{""added"": [{""date"": ""2026-05-09"", ""shift"": ""Tutto il giorno""}], ""removed"": [{""date"": ""2026-05-01"", ""shift"": ""Mattina""}], ""note_changed"": []}",2026-02-01-ui-v7
