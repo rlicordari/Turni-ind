@@ -1,8 +1,8 @@
 {
   "doctor": "Migliorato",
-  "session_id": "3c7b60e8-3893-4fe6-9af2-0b808464f95a",
-  "issued_at": "2026-03-22T17:03:19Z",
-  "last_seen": "2026-03-22T17:14:00Z",
-  "expires_at": "2026-03-22T17:34:00Z",
+  "session_id": "5d428b2a-956b-4024-96e4-f9c24be8db99",
+  "issued_at": "2026-04-18T15:12:26Z",
+  "last_seen": "2026-04-18T15:12:26Z",
+  "expires_at": "2026-04-18T15:32:26Z",
   "app_build": "2026-02-01-ui-v7"
 }
