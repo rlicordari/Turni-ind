@@ -1,8 +1,8 @@
 {
   "doctor": "Allegra",
-  "session_id": "012aa4fe-6a59-42b7-a9ab-cd62fa945e50",
-  "issued_at": "2026-04-19T15:57:54Z",
-  "last_seen": "2026-04-19T15:57:54Z",
-  "expires_at": "2026-04-19T16:17:54Z",
+  "session_id": "2cc8b3f8-d4f5-4797-ac35-4acb80e946f3",
+  "issued_at": "2026-04-19T16:20:15Z",
+  "last_seen": "2026-04-19T16:20:15Z",
+  "expires_at": "2026-04-19T16:40:15Z",
   "app_build": "2026-02-01-ui-v7"
 }
