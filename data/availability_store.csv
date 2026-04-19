@@ -2,8 +2,6 @@ doctor,date,shift,note,updated_at,priority
 Trio,2026-04-02,Mattina,,2026-03-17T18:31:46Z,media
 Cimino,2026-04-13,Pomeriggio,,2026-03-21T07:56:12Z,media
 Calabrò,2026-04-07,Notte,,2026-03-21T11:22:55Z,media
-Recupero,2026-05-02,Tutto il giorno,,2026-03-22T07:45:42Z,media
-Recupero,2026-05-09,Tutto il giorno,,2026-03-22T07:45:42Z,media
 Colarusso,2026-04-08,Mattina,ALPI pomeriggio,2026-03-22T09:32:57Z,media
 Colarusso,2026-04-15,Mattina,ALPI pomeriggio,2026-03-22T09:32:57Z,media
 Colarusso,2026-04-22,Mattina,ALPI pomeriggio,2026-03-22T09:32:57Z,media
@@ -33,3 +31,5 @@ Allegra,2026-05-03,Pomeriggio,,2026-04-19T16:28:53Z,media
 Allegra,2026-05-31,Tutto il giorno,,2026-04-19T16:28:53Z,media
 Allegra,2026-05-09,Pomeriggio,,2026-04-19T16:28:53Z,media
 Allegra,2026-05-10,Mattina,,2026-04-19T16:28:53Z,media
+Recupero,2026-05-02,Tutto il giorno,,2026-04-19T17:31:42Z,media
+Recupero,2026-05-09,Tutto il giorno,,2026-04-19T17:31:42Z,media
