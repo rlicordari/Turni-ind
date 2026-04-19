@@ -2,12 +2,12 @@
   "doctor": "Pugliatti",
   "channel": "email",
   "dest_masked": "pi***@tiscali.it",
-  "salt_b64": "nCHn71WExMeF05ZCKxQuvQ==",
-  "code_hash_b64": "6p2KjxsshAz7DIPeIXR2uOJO0n8nj28CO9+SgmdfKNI=",
-  "created_at": "2026-03-22T21:51:36Z",
-  "expires_at": "2026-03-22T22:01:36Z",
+  "salt_b64": "Jw01z2Zh+YnOz/dKpM9prQ==",
+  "code_hash_b64": "Rpr3AQhHTCi1IIKoST+6OqH+6V0BBNkLBJOCAv6dDe8=",
+  "created_at": "2026-04-19T21:27:57Z",
+  "expires_at": "2026-04-19T21:37:57Z",
   "attempts": 0,
   "max_attempts": 5,
   "app_build": "2026-02-01-ui-v7",
-  "used_at": "2026-03-22T21:55:11Z"
+  "used_at": null
 }
