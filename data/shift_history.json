@@ -1,1 +1,763 @@
-{}
+{
+  "2026-02": {
+    "Grimaldi": {
+      "_festivi_DE_HI": 0,
+      "_domeniche": 1,
+      "_sabati": 1,
+      "C": {
+        "total": 2,
+        "festivi": 1,
+        "feriali": 1
+      },
+      "D": {
+        "total": 12,
+        "festivi": 0,
+        "feriali": 12
+      },
+      "F": {
+        "total": 8,
+        "festivi": 0,
+        "feriali": 8
+      }
+    },
+    "Crea": {
+      "_festivi_DE_HI": 1,
+      "_domeniche": 2,
+      "_sabati": 3,
+      "D": {
+        "total": 1,
+        "festivi": 1,
+        "feriali": 0
+      },
+      "E": {
+        "total": 7,
+        "festivi": 1,
+        "feriali": 6
+      },
+      "L": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "V": {
+        "total": 5,
+        "festivi": 0,
+        "feriali": 5
+      },
+      "H": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "I": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "J": {
+        "total": 2,
+        "festivi": 1,
+        "feriali": 1,
+        "sabati": 0,
+        "domeniche": 1
+      },
+      "AB": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "U": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "K": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "AA": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "C": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      }
+    },
+    "Cimino": {
+      "_festivi_DE_HI": 1,
+      "_domeniche": 3,
+      "_sabati": 0,
+      "H": {
+        "total": 1,
+        "festivi": 1,
+        "feriali": 0
+      },
+      "I": {
+        "total": 6,
+        "festivi": 1,
+        "feriali": 5
+      },
+      "U": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "L": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "C": {
+        "total": 3,
+        "festivi": 1,
+        "feriali": 2
+      },
+      "J": {
+        "total": 2,
+        "festivi": 1,
+        "feriali": 1,
+        "sabati": 0,
+        "domeniche": 1
+      },
+      "T": {
+        "total": 4,
+        "festivi": 0,
+        "feriali": 4
+      },
+      "AA": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "F": {
+        "total": 3,
+        "festivi": 0,
+        "feriali": 3
+      },
+      "K": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "AB": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      }
+    },
+    "Allegra": {
+      "_festivi_DE_HI": 0,
+      "_domeniche": 1,
+      "_sabati": 2,
+      "J": {
+        "total": 2,
+        "festivi": 1,
+        "feriali": 1,
+        "sabati": 1,
+        "domeniche": 1
+      },
+      "U": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "C": {
+        "total": 3,
+        "festivi": 0,
+        "feriali": 3
+      },
+      "K": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "AB": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "T": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "V": {
+        "total": 4,
+        "festivi": 0,
+        "feriali": 4
+      },
+      "I": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "F": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "H": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "E": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      }
+    },
+    "Migliorato": {
+      "_festivi_DE_HI": 0,
+      "_domeniche": 0,
+      "_sabati": 1,
+      "C": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "W": {
+        "total": 7,
+        "festivi": 0,
+        "feriali": 7
+      },
+      "AC": {
+        "total": 6,
+        "festivi": 0,
+        "feriali": 6
+      },
+      "J": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2,
+        "sabati": 0,
+        "domeniche": 0
+      },
+      "H": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      }
+    },
+    "Calabrò": {
+      "_festivi_DE_HI": 0,
+      "_domeniche": 1,
+      "_sabati": 3,
+      "F": {
+        "total": 10,
+        "festivi": 0,
+        "feriali": 10
+      },
+      "D": {
+        "total": 11,
+        "festivi": 0,
+        "feriali": 11
+      },
+      "J": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2,
+        "sabati": 1,
+        "domeniche": 0
+      },
+      "C": {
+        "total": 3,
+        "festivi": 1,
+        "feriali": 2
+      },
+      "AA": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      }
+    },
+    "Cusmà": {
+      "_festivi_DE_HI": 1,
+      "_domeniche": 1,
+      "_sabati": 1,
+      "H": {
+        "total": 6,
+        "festivi": 1,
+        "feriali": 5
+      },
+      "R": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "J": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2,
+        "sabati": 0,
+        "domeniche": 0
+      },
+      "K": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "F": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "I": {
+        "total": 1,
+        "festivi": 1,
+        "feriali": 0
+      },
+      "Z": {
+        "total": 3,
+        "festivi": 0,
+        "feriali": 3
+      },
+      "Q": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "L": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "C": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "E": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "S": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "AA": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      }
+    },
+    "Pugliatti": {
+      "_festivi_DE_HI": 0,
+      "_domeniche": 1,
+      "_sabati": 2,
+      "I": {
+        "total": 4,
+        "festivi": 0,
+        "feriali": 4
+      },
+      "W": {
+        "total": 10,
+        "festivi": 0,
+        "feriali": 10
+      },
+      "Q": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "C": {
+        "total": 2,
+        "festivi": 1,
+        "feriali": 1
+      },
+      "K": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "L": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "T": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "J": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2,
+        "sabati": 1,
+        "domeniche": 0
+      },
+      "R": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      }
+    },
+    "Dattilo": {
+      "_festivi_DE_HI": 1,
+      "_domeniche": 1,
+      "_sabati": 2,
+      "J": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2,
+        "sabati": 0,
+        "domeniche": 0
+      },
+      "V": {
+        "total": 4,
+        "festivi": 0,
+        "feriali": 4
+      },
+      "E": {
+        "total": 8,
+        "festivi": 1,
+        "feriali": 7
+      },
+      "C": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "D": {
+        "total": 1,
+        "festivi": 1,
+        "feriali": 0
+      },
+      "AB": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "I": {
+        "total": 3,
+        "festivi": 0,
+        "feriali": 3
+      },
+      "U": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      }
+    },
+    "Licordari": {
+      "_festivi_DE_HI": 1,
+      "_domeniche": 1,
+      "_sabati": 0,
+      "K": {
+        "total": 3,
+        "festivi": 0,
+        "feriali": 3
+      },
+      "T": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "C": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "H": {
+        "total": 5,
+        "festivi": 0,
+        "feriali": 5
+      },
+      "R": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "L": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "J": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2,
+        "sabati": 0,
+        "domeniche": 0
+      },
+      "D": {
+        "total": 1,
+        "festivi": 1,
+        "feriali": 0
+      },
+      "E": {
+        "total": 1,
+        "festivi": 1,
+        "feriali": 0
+      },
+      "Y": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "AA": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "Q": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      }
+    },
+    "Zito": {
+      "_festivi_DE_HI": 0,
+      "_domeniche": 0,
+      "_sabati": 1,
+      "Q": {
+        "total": 4,
+        "festivi": 0,
+        "feriali": 4
+      },
+      "S": {
+        "total": 5,
+        "festivi": 0,
+        "feriali": 5
+      },
+      "R": {
+        "total": 8,
+        "festivi": 0,
+        "feriali": 8
+      },
+      "J": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2,
+        "sabati": 1,
+        "domeniche": 0
+      }
+    },
+    "Manganaro": {
+      "_festivi_DE_HI": 2,
+      "_domeniche": 2,
+      "_sabati": 1,
+      "R": {
+        "total": 5,
+        "festivi": 0,
+        "feriali": 5
+      },
+      "K": {
+        "total": 4,
+        "festivi": 0,
+        "feriali": 4
+      },
+      "T": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "Z": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "AA": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "Q": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "I": {
+        "total": 6,
+        "festivi": 1,
+        "feriali": 5
+      },
+      "E": {
+        "total": 3,
+        "festivi": 1,
+        "feriali": 2
+      },
+      "H": {
+        "total": 1,
+        "festivi": 1,
+        "feriali": 0
+      },
+      "D": {
+        "total": 1,
+        "festivi": 1,
+        "feriali": 0
+      },
+      "S": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      }
+    },
+    "Trio": {
+      "_festivi_DE_HI": 0,
+      "_domeniche": 0,
+      "_sabati": 2,
+      "L": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "J": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2,
+        "sabati": 0,
+        "domeniche": 0
+      },
+      "Q": {
+        "total": 3,
+        "festivi": 0,
+        "feriali": 3
+      },
+      "C": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "H": {
+        "total": 5,
+        "festivi": 0,
+        "feriali": 5
+      },
+      "AA": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "K": {
+        "total": 4,
+        "festivi": 0,
+        "feriali": 4
+      },
+      "T": {
+        "total": 5,
+        "festivi": 0,
+        "feriali": 5
+      },
+      "R": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      }
+    },
+    "De Gregorio": {
+      "_festivi_DE_HI": 1,
+      "_domeniche": 1,
+      "_sabati": 0,
+      "I": {
+        "total": 4,
+        "festivi": 1,
+        "feriali": 3
+      },
+      "K": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "T": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "F": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "Y": {
+        "total": 3,
+        "festivi": 0,
+        "feriali": 3
+      },
+      "H": {
+        "total": 1,
+        "festivi": 1,
+        "feriali": 0
+      },
+      "Z": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "E": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      }
+    },
+    "Colarusso": {
+      "_festivi_DE_HI": 0,
+      "_domeniche": 1,
+      "_sabati": 2,
+      "C": {
+        "total": 3,
+        "festivi": 0,
+        "feriali": 3
+      },
+      "Y": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "R": {
+        "total": 3,
+        "festivi": 0,
+        "feriali": 3
+      },
+      "J": {
+        "total": 2,
+        "festivi": 1,
+        "feriali": 1,
+        "sabati": 0,
+        "domeniche": 1
+      },
+      "H": {
+        "total": 3,
+        "festivi": 0,
+        "feriali": 3
+      },
+      "K": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "T": {
+        "total": 2,
+        "festivi": 0,
+        "feriali": 2
+      },
+      "L": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "Q": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "S": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      },
+      "D": {
+        "total": 1,
+        "festivi": 0,
+        "feriali": 1
+      }
+    }
+  }
+}
