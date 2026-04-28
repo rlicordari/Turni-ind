@@ -1,8 +1,8 @@
 {
   "doctor": "Recupero",
-  "session_id": "2b755400-0c0c-4cdf-a526-87e645eea8f9",
-  "issued_at": "2026-04-19T17:27:14Z",
-  "last_seen": "2026-04-19T17:44:27Z",
-  "expires_at": "2026-04-19T18:04:27Z",
+  "session_id": "dd1644df-59f4-4012-b647-aa1004b83764",
+  "issued_at": "2026-04-28T18:13:17Z",
+  "last_seen": "2026-04-28T18:13:17Z",
+  "expires_at": "2026-04-28T18:33:17Z",
   "app_build": "2026-02-01-ui-v7"
 }
