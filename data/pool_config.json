@@ -1,0 +1,378 @@
+{
+  "schema_version": 1,
+  "doctors": {
+    "Allegra": {
+      "active": true,
+      "columns": [
+        "AB",
+        "E",
+        "G",
+        "I",
+        "J",
+        "K",
+        "L",
+        "T",
+        "U",
+        "V"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "excluded_from_reperibilita": false,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Calabrò": {
+      "active": true,
+      "columns": [
+        "D",
+        "F",
+        "J"
+      ],
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "excluded_from_reperibilita": false,
+      "university_doctor": null,
+      "column_overrides": {
+        "J": {
+          "monthly_quota": 2,
+          "quota_type": "fixed",
+          "weekend_nights": false
+        }
+      }
+    },
+    "Cimino": {
+      "active": true,
+      "columns": [
+        "AB",
+        "E",
+        "G",
+        "I",
+        "J",
+        "K",
+        "L",
+        "T",
+        "U"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "excluded_from_reperibilita": false,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Colarusso": {
+      "active": true,
+      "columns": [
+        "H",
+        "J",
+        "K",
+        "L",
+        "Q",
+        "R",
+        "T",
+        "Y"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "excluded_from_reperibilita": false,
+      "university_doctor": null,
+      "column_overrides": {
+        "J": {
+          "monthly_quota": 3,
+          "quota_type": "fixed"
+        }
+      }
+    },
+    "Crea": {
+      "active": true,
+      "columns": [
+        "AB",
+        "E",
+        "G",
+        "I",
+        "J",
+        "K",
+        "U",
+        "V"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "excluded_from_reperibilita": false,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Cusmà": {
+      "active": true,
+      "columns": [
+        "H",
+        "J",
+        "K",
+        "L",
+        "Q",
+        "R",
+        "S",
+        "Z"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "excluded_from_reperibilita": false,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Dattilo": {
+      "active": true,
+      "columns": [
+        "AB",
+        "E",
+        "G",
+        "I",
+        "J",
+        "U",
+        "V"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "excluded_from_reperibilita": false,
+      "university_doctor": {
+        "ratio": 0.6
+      },
+      "column_overrides": {}
+    },
+    "De Gregorio": {
+      "active": true,
+      "columns": [
+        "E",
+        "G",
+        "I",
+        "K",
+        "Z"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": false,
+      "excluded_from_reperibilita": true,
+      "university_doctor": {
+        "ratio": 0.6
+      },
+      "column_overrides": {}
+    },
+    "Grimaldi": {
+      "active": true,
+      "columns": [
+        "D",
+        "F"
+      ],
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "excluded_from_reperibilita": false,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Licordari": {
+      "active": true,
+      "columns": [
+        "H",
+        "J",
+        "K",
+        "L",
+        "Q",
+        "R",
+        "T",
+        "Y",
+        "Z"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "excluded_from_reperibilita": false,
+      "university_doctor": null,
+      "column_overrides": {
+        "J": {
+          "monthly_quota": 3,
+          "quota_type": "fixed"
+        }
+      }
+    },
+    "Manganaro": {
+      "active": true,
+      "columns": [
+        "E",
+        "G",
+        "H",
+        "K",
+        "L",
+        "Q",
+        "R",
+        "T",
+        "Z"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": false,
+      "excluded_from_reperibilita": true,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Migliorato": {
+      "active": true,
+      "columns": [
+        "AC",
+        "H",
+        "J",
+        "W"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "excluded_from_reperibilita": false,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Pugliatti": {
+      "active": true,
+      "columns": [
+        "E",
+        "G",
+        "I",
+        "J",
+        "K",
+        "L",
+        "Q",
+        "T",
+        "W"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "excluded_from_reperibilita": false,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Trio": {
+      "active": true,
+      "columns": [
+        "H",
+        "J",
+        "K",
+        "L",
+        "Q",
+        "R",
+        "T"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "excluded_from_reperibilita": false,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Zito": {
+      "active": true,
+      "columns": [
+        "J",
+        "Q",
+        "R",
+        "S"
+      ],
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "excluded_from_reperibilita": true,
+      "university_doctor": {
+        "ratio": 0.6
+      },
+      "column_overrides": {
+        "J": {
+          "monthly_quota": 2,
+          "quota_type": "fixed"
+        }
+      }
+    },
+    "Recupero": {
+      "active": true,
+      "columns": [
+        "Q",
+        "R",
+        "T",
+        "W"
+      ],
+      "festivi_diurni": true,
+      "festivi_notti": false,
+      "excluded_from_reperibilita": true,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "De Luca": {
+      "active": false,
+      "columns": [],
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "excluded_from_reperibilita": true,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Carciotto": {
+      "active": false,
+      "columns": [],
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "excluded_from_reperibilita": true,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Virga": {
+      "active": false,
+      "columns": [],
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "excluded_from_reperibilita": true,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Andò": {
+      "active": false,
+      "columns": [],
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "excluded_from_reperibilita": true,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "Saporito": {
+      "active": false,
+      "columns": [],
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "excluded_from_reperibilita": true,
+      "university_doctor": null,
+      "column_overrides": {}
+    },
+    "D'Angelo": {
+      "active": false,
+      "columns": [],
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "excluded_from_reperibilita": true,
+      "university_doctor": null,
+      "column_overrides": {}
+    }
+  },
+  "column_settings": {
+    "J": {
+      "monthly_target": 2,
+      "spacing_min_days": 5,
+      "spacing_preferred_days": 7,
+      "counts_as": 2
+    },
+    "C": {
+      "monthly_target": null,
+      "spacing_min_days": 3,
+      "counts_as": 0
+    }
+  },
+  "service_combinations": [
+    {
+      "columns": [
+        "K",
+        "T"
+      ],
+      "same_day": true,
+      "mode": "fallback"
+    }
+  ],
+  "critical_services": {},
+  "updated_at": "2026-05-07T17:23:01Z",
+  "updated_by": "admin"
+}
