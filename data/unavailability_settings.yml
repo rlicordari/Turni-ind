@@ -1,10 +1,10 @@
 unavailability_open: true
 max_unavailability_per_shift: 6
-max_availability_per_shift: 7
+max_availability_per_shift: 6
 max_weekend_days: 2
 doctor_caps:
   Dattilo: 10
   De Gregorio: 10
   Zito: 10
-updated_at: '2026-05-07T18:08:20Z'
+updated_at: '2026-05-07T18:08:25Z'
 updated_by: admin
