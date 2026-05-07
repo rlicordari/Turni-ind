@@ -4,6 +4,7 @@
     "Allegra": {
       "active": true,
       "columns": [
+        "AA",
         "AB",
         "E",
         "G",
@@ -78,7 +79,8 @@
       "column_overrides": {
         "J": {
           "monthly_quota": 3,
-          "quota_type": "fixed"
+          "quota_type": "fixed",
+          "weekend_nights": true
         }
       }
     },
@@ -186,7 +188,8 @@
       "column_overrides": {
         "J": {
           "monthly_quota": 3,
-          "quota_type": "fixed"
+          "quota_type": "fixed",
+          "weekend_nights": true
         }
       }
     },
@@ -276,7 +279,8 @@
       "column_overrides": {
         "J": {
           "monthly_quota": 2,
-          "quota_type": "fixed"
+          "quota_type": "fixed",
+          "weekend_nights": true
         }
       }
     },
@@ -321,15 +325,6 @@
       "university_doctor": null,
       "column_overrides": {}
     },
-    "Andò": {
-      "active": false,
-      "columns": [],
-      "festivi_diurni": false,
-      "festivi_notti": false,
-      "excluded_from_reperibilita": true,
-      "university_doctor": null,
-      "column_overrides": {}
-    },
     "Saporito": {
       "active": false,
       "columns": [],
@@ -359,7 +354,152 @@
     "C": {
       "monthly_target": null,
       "spacing_min_days": 3,
-      "counts_as": 0
+      "counts_as": 0,
+      "spacing_preferred_days": 0
+    },
+    "AA": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "AB": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "AC": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "AD": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "AE": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "AF": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "AG": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "D": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "E": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "F": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "G": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "H": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "I": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "K": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "L": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "Q": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "R": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "S": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "T": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "U": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "V": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "W": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "Y": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "Z": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
     }
   },
   "service_combinations": [
@@ -373,6 +513,6 @@
     }
   ],
   "critical_services": {},
-  "updated_at": "2026-05-07T17:23:01Z",
+  "updated_at": "2026-05-07T18:07:32Z",
   "updated_by": "admin"
 }
