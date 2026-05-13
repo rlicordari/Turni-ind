@@ -20,7 +20,8 @@
       "festivi_notti": true,
       "excluded_from_reperibilita": false,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Calabrò": {
       "active": true,
@@ -39,7 +40,8 @@
           "quota_type": "fixed",
           "weekend_nights": false
         }
-      }
+      },
+      "email": null
     },
     "Cimino": {
       "active": true,
@@ -58,7 +60,8 @@
       "festivi_notti": true,
       "excluded_from_reperibilita": false,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Colarusso": {
       "active": true,
@@ -82,7 +85,8 @@
           "quota_type": "fixed",
           "weekend_nights": true
         }
-      }
+      },
+      "email": null
     },
     "Crea": {
       "active": true,
@@ -100,7 +104,8 @@
       "festivi_notti": true,
       "excluded_from_reperibilita": false,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Cusmà": {
       "active": true,
@@ -118,7 +123,8 @@
       "festivi_notti": true,
       "excluded_from_reperibilita": false,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Dattilo": {
       "active": true,
@@ -137,7 +143,8 @@
       "university_doctor": {
         "ratio": 0.6
       },
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "De Gregorio": {
       "active": true,
@@ -154,7 +161,8 @@
       "university_doctor": {
         "ratio": 0.6
       },
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Grimaldi": {
       "active": true,
@@ -166,7 +174,8 @@
       "festivi_notti": false,
       "excluded_from_reperibilita": false,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Licordari": {
       "active": true,
@@ -191,7 +200,8 @@
           "quota_type": "fixed",
           "weekend_nights": true
         }
-      }
+      },
+      "email": null
     },
     "Manganaro": {
       "active": true,
@@ -210,7 +220,8 @@
       "festivi_notti": false,
       "excluded_from_reperibilita": true,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Migliorato": {
       "active": true,
@@ -224,7 +235,8 @@
       "festivi_notti": true,
       "excluded_from_reperibilita": false,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Pugliatti": {
       "active": true,
@@ -243,7 +255,8 @@
       "festivi_notti": true,
       "excluded_from_reperibilita": false,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Trio": {
       "active": true,
@@ -260,7 +273,8 @@
       "festivi_notti": true,
       "excluded_from_reperibilita": false,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Zito": {
       "active": true,
@@ -282,7 +296,8 @@
           "quota_type": "fixed",
           "weekend_nights": true
         }
-      }
+      },
+      "email": null
     },
     "Recupero": {
       "active": true,
@@ -296,7 +311,8 @@
       "festivi_notti": false,
       "excluded_from_reperibilita": true,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "De Luca": {
       "active": false,
@@ -305,7 +321,8 @@
       "festivi_notti": false,
       "excluded_from_reperibilita": true,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Carciotto": {
       "active": false,
@@ -314,7 +331,8 @@
       "festivi_notti": false,
       "excluded_from_reperibilita": true,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Virga": {
       "active": false,
@@ -323,7 +341,8 @@
       "festivi_notti": false,
       "excluded_from_reperibilita": true,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "Saporito": {
       "active": false,
@@ -332,7 +351,8 @@
       "festivi_notti": false,
       "excluded_from_reperibilita": true,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     },
     "D'Angelo": {
       "active": false,
@@ -341,7 +361,8 @@
       "festivi_notti": false,
       "excluded_from_reperibilita": true,
       "university_doctor": null,
-      "column_overrides": {}
+      "column_overrides": {},
+      "email": null
     }
   },
   "column_settings": {
@@ -512,7 +533,23 @@
       "mode": "fallback"
     }
   ],
-  "critical_services": {},
-  "updated_at": "2026-05-07T18:08:54Z",
+  "critical_services": {
+    "D": {
+      "fallback": "any"
+    },
+    "F": {
+      "fallback": "any"
+    },
+    "H": {
+      "fallback": "any"
+    },
+    "J": {
+      "fallback": "any"
+    },
+    "I": {
+      "fallback": "any"
+    }
+  },
+  "updated_at": "2026-05-13T18:15:59Z",
   "updated_by": "admin"
 }
