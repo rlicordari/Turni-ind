@@ -21,3 +21,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-05-17T20:16:06Z,De Gregorio,2026-06,save,6,7,1,0,2,"{""added"": [{""date"": ""2026-06-06"", ""shift"": ""Diurno""}], ""removed"": [], ""note_changed"": [{""date"": ""2026-06-04"", ""shift"": ""Diurno""}, {""date"": ""2026-06-05"", ""shift"": ""Diurno""}]}",2026-02-01-ui-v7
 2026-05-17T20:17:07Z,De Gregorio,2026-06,save,7,8,1,0,0,"{""added"": [{""date"": ""2026-06-08"", ""shift"": ""Diurno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-05-17T20:17:47Z,Allegra,2026-06,save,5,7,2,0,0,"{""added"": [{""date"": ""2026-06-27"", ""shift"": ""Tutto il giorno""}, {""date"": ""2026-06-28"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-05-17T20:17:51Z,De Gregorio,2026-06,save,8,9,1,0,0,"{""added"": [{""date"": ""2026-06-09"", ""shift"": ""Mattina""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
