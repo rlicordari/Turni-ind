@@ -1,8 +1,8 @@
 {
   "doctor": "Grimaldi",
-  "session_id": "e7d4755f-26d7-4498-bb34-1790e7395431",
-  "issued_at": "2026-04-18T18:01:44Z",
-  "last_seen": "2026-04-18T18:03:43Z",
-  "expires_at": "2026-04-18T18:23:43Z",
+  "session_id": "e9064e26-7e16-46a4-a67a-459498c19cd3",
+  "issued_at": "2026-05-22T05:59:53Z",
+  "last_seen": "2026-05-22T05:59:53Z",
+  "expires_at": "2026-05-22T06:19:53Z",
   "app_build": "2026-02-01-ui-v7"
 }
