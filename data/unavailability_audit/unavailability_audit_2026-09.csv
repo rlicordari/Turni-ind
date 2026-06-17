@@ -1,0 +1,2 @@
+ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,note_changed_count,details_json,app_build
+2026-06-17T10:35:57Z,Manganaro,2026-09,save,0,2,2,0,0,"{""added"": [{""date"": ""2026-09-01"", ""shift"": ""Tutto il giorno""}, {""date"": ""2026-09-02"", ""shift"": ""Mattina""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
