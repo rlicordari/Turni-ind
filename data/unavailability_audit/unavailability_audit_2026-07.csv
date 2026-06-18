@@ -20,3 +20,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-06-18T16:09:58Z,Calabrò,2026-07,save,2,3,1,0,0,"{""added"": [{""date"": ""2026-07-04"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-06-18T16:10:14Z,Calabrò,2026-07,save,3,4,1,0,0,"{""added"": [{""date"": ""2026-07-05"", ""shift"": ""Mattina""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-06-18T16:10:18Z,Calabrò,2026-07,save,4,4,1,1,0,"{""added"": [{""date"": ""2026-07-05"", ""shift"": ""Tutto il giorno""}], ""removed"": [{""date"": ""2026-07-05"", ""shift"": ""Mattina""}], ""note_changed"": []}",2026-02-01-ui-v7
+2026-06-18T16:11:50Z,Calabrò,2026-07,save,4,5,1,0,0,"{""added"": [{""date"": ""2026-07-13"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
