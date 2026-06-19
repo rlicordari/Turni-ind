@@ -1,8 +1,8 @@
 {
   "doctor": "Cusmà",
-  "session_id": "6f581a4e-c672-4608-a674-3a186a6bf0b3",
-  "issued_at": "2026-06-18T21:02:35Z",
-  "last_seen": "2026-06-18T21:04:41Z",
-  "expires_at": "2026-06-18T21:24:41Z",
+  "session_id": "0e3be48e-d9ed-419a-973e-57e4c391742a",
+  "issued_at": "2026-06-19T20:34:47Z",
+  "last_seen": "2026-06-19T20:34:47Z",
+  "expires_at": "2026-06-19T20:54:47Z",
   "app_build": "2026-02-01-ui-v7"
 }
