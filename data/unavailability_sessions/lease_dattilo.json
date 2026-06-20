@@ -1,8 +1,8 @@
 {
   "doctor": "Dattilo",
-  "session_id": "28332367-c284-474d-aabc-be0d2cefe4bc",
-  "issued_at": "2026-05-17T18:56:47Z",
-  "last_seen": "2026-05-17T19:09:37Z",
-  "expires_at": "2026-05-17T19:29:37Z",
+  "session_id": "abd9238b-844d-4536-a0a6-ef4902cba482",
+  "issued_at": "2026-06-20T17:40:17Z",
+  "last_seen": "2026-06-20T17:40:17Z",
+  "expires_at": "2026-06-20T18:00:17Z",
   "app_build": "2026-02-01-ui-v7"
 }
