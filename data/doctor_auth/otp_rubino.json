@@ -1,0 +1,13 @@
+{
+  "doctor": "Rubino",
+  "channel": "email",
+  "dest_masked": "cl***@gmail.com",
+  "salt_b64": "PWBIe8ZfC2EtNPwYBhZGAA==",
+  "code_hash_b64": "Sm37+OOLv3qkb6sDN13eQkikkI3RPGyFzhcX2Huwdgc=",
+  "created_at": "2026-06-22T07:26:00Z",
+  "expires_at": "2026-06-22T07:36:00Z",
+  "attempts": 0,
+  "max_attempts": 5,
+  "app_build": "2026-02-01-ui-v7",
+  "used_at": null
+}
