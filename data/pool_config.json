@@ -363,6 +363,16 @@
       "university_doctor": null,
       "column_overrides": {},
       "email": null
+    },
+    "Rubino": {
+      "active": true,
+      "columns": [],
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "excluded_from_reperibilita": false,
+      "university_doctor": null,
+      "column_overrides": {},
+      "email": "claudia.rubino9621@gmail.com"
     }
   },
   "column_settings": {
@@ -537,6 +547,9 @@
     "D": {
       "fallback": "any"
     },
+    "E": {
+      "fallback": "any"
+    },
     "F": {
       "fallback": "any"
     },
@@ -548,11 +561,8 @@
     },
     "J": {
       "fallback": "any"
-    },
-    "E": {
-      "fallback": "any"
     }
   },
-  "updated_at": "2026-05-13T18:20:47Z",
+  "updated_at": "2026-06-22T06:28:21Z",
   "updated_by": "admin"
 }
