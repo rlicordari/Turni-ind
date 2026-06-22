@@ -57,3 +57,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-06-22T09:00:04Z,Rubino,2026-07,save,1,1,1,1,0,"{""added"": [{""date"": ""2026-07-04"", ""shift"": ""Tutto il giorno""}], ""removed"": [{""date"": ""2026-07-10"", ""shift"": ""Pomeriggio""}], ""note_changed"": []}",2026-02-01-ui-v7
 2026-06-22T09:00:26Z,Rubino,2026-07,save,1,2,1,0,0,"{""added"": [{""date"": ""2026-07-11"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-06-22T09:00:55Z,Rubino,2026-07,save,2,3,1,0,0,"{""added"": [{""date"": ""2026-07-10"", ""shift"": ""Pomeriggio""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-06-22T09:01:20Z,Rubino,2026-07,save,3,4,1,0,0,"{""added"": [{""date"": ""2026-07-12"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
