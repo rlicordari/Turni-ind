@@ -366,7 +366,24 @@
     },
     "Rubino": {
       "active": true,
-      "columns": [],
+      "columns": [
+        "AA",
+        "AD",
+        "AE",
+        "AF",
+        "AG",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "Q",
+        "R",
+        "T"
+      ],
       "festivi_diurni": true,
       "festivi_notti": true,
       "excluded_from_reperibilita": false,
@@ -563,6 +580,6 @@
       "fallback": "any"
     }
   },
-  "updated_at": "2026-06-22T06:28:21Z",
+  "updated_at": "2026-06-22T06:29:56Z",
   "updated_by": "admin"
 }
