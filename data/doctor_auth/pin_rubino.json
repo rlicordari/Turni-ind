@@ -1,0 +1,8 @@
+{
+  "doctor": "Rubino",
+  "salt_b64": "X2QgdyAbffDc1w25lzav/Q==",
+  "hash_b64": "W8cQReIxM43lZkhj7Da2T75qyIz5U+j7DoT4Dm3o8z4=",
+  "iters": 200000,
+  "pin_updated_at": "2026-06-22T07:27:00Z",
+  "app_build": "2026-02-01-ui-v7"
+}
