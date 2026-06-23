@@ -79,13 +79,7 @@
       "festivi_notti": true,
       "excluded_from_reperibilita": false,
       "university_doctor": null,
-      "column_overrides": {
-        "J": {
-          "monthly_quota": 3,
-          "quota_type": "fixed",
-          "weekend_nights": true
-        }
-      },
+      "column_overrides": {},
       "email": null
     },
     "Crea": {
@@ -194,13 +188,7 @@
       "festivi_notti": true,
       "excluded_from_reperibilita": false,
       "university_doctor": null,
-      "column_overrides": {
-        "J": {
-          "monthly_quota": 3,
-          "quota_type": "fixed",
-          "weekend_nights": true
-        }
-      },
+      "column_overrides": {},
       "email": null
     },
     "Manganaro": {
