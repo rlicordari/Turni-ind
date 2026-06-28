@@ -1,8 +1,8 @@
 {
   "doctor": "Trio",
-  "session_id": "8f8b9216-0309-4171-b352-c5406709bbdd",
-  "issued_at": "2026-06-16T14:52:48Z",
-  "last_seen": "2026-06-16T15:07:44Z",
-  "expires_at": "2026-06-16T15:27:44Z",
+  "session_id": "b44f1ece-987d-4b19-9f79-57f9851b081c",
+  "issued_at": "2026-06-28T20:12:20Z",
+  "last_seen": "2026-06-28T20:12:20Z",
+  "expires_at": "2026-06-28T20:32:20Z",
   "app_build": "2026-02-01-ui-v7"
 }
