@@ -11455,6 +11455,1162 @@
         }
       },
       "source": "streamlit"
+    },
+    {
+      "id": "dd4f0e93-0267-40e5-8315-7581c27b39ee",
+      "label": "01/08/2026-06/09/2026",
+      "start_date": "2026-08-01",
+      "end_date": "2026-09-06",
+      "created_at": "2026-07-17T19:36:49Z",
+      "active": true,
+      "assignments": {
+        "2026-08-01": {
+          "C": [
+            "Trio"
+          ],
+          "D": [
+            "Cusmà"
+          ],
+          "E": [
+            "De Gregorio"
+          ],
+          "F": [
+            "Cusmà"
+          ],
+          "H": [
+            "Licordari"
+          ],
+          "I": [
+            "Cimino"
+          ],
+          "J": [
+            "Dattilo"
+          ],
+          "K": [
+            "Trio"
+          ],
+          "T": [
+            "Trio"
+          ]
+        },
+        "2026-08-02": {
+          "C": [
+            "Rubino"
+          ],
+          "D": [
+            "Trio"
+          ],
+          "E": [
+            "Trio"
+          ],
+          "H": [
+            "Pugliatti"
+          ],
+          "I": [
+            "Pugliatti"
+          ],
+          "J": [
+            "Cimino"
+          ]
+        },
+        "2026-08-03": {
+          "C": [
+            "Licordari"
+          ],
+          "D": [
+            "Colarusso"
+          ],
+          "E": [
+            "Pugliatti"
+          ],
+          "F": [
+            "Colarusso"
+          ],
+          "H": [
+            "Cusmà"
+          ],
+          "I": [
+            "Rubino"
+          ],
+          "K": [
+            "Licordari"
+          ],
+          "Q": [
+            "Trio"
+          ],
+          "T": [
+            "Licordari"
+          ],
+          "V": [
+            "Dattilo"
+          ]
+        },
+        "2026-08-04": {
+          "C": [
+            "Colarusso"
+          ],
+          "D": [
+            "Colarusso"
+          ],
+          "E": [
+            "De Gregorio"
+          ],
+          "F": [
+            "Colarusso"
+          ],
+          "H": [
+            "Trio"
+          ],
+          "I": [
+            "Dattilo"
+          ],
+          "J": [
+            "Cusmà"
+          ],
+          "K": [
+            "Rubino"
+          ],
+          "L": [
+            "Cimino"
+          ],
+          "Q": [
+            "Pugliatti"
+          ],
+          "T": [
+            "Licordari"
+          ]
+        },
+        "2026-08-05": {
+          "C": [
+            "Cimino"
+          ],
+          "D": [
+            "Colarusso"
+          ],
+          "E": [
+            "Dattilo"
+          ],
+          "F": [
+            "Colarusso"
+          ],
+          "H": [
+            "Licordari"
+          ],
+          "I": [
+            "De Gregorio"
+          ],
+          "J": [
+            "Pugliatti"
+          ],
+          "K": [
+            "Cimino"
+          ],
+          "Q": [
+            "Trio"
+          ],
+          "T": [
+            "Cimino"
+          ],
+          "V": [
+            "Allegra"
+          ]
+        },
+        "2026-08-06": {
+          "C": [
+            "Dattilo"
+          ],
+          "D": [
+            "Licordari"
+          ],
+          "E": [
+            "De Gregorio"
+          ],
+          "F": [
+            "Licordari"
+          ],
+          "H": [
+            "Cusmà"
+          ],
+          "I": [
+            "Dattilo"
+          ],
+          "K": [
+            "Allegra"
+          ],
+          "L": [
+            "Trio"
+          ],
+          "Q": [
+            "Colarusso"
+          ],
+          "T": [
+            "Cimino"
+          ]
+        },
+        "2026-08-07": {
+          "C": [
+            "Licordari"
+          ],
+          "D": [
+            "Licordari"
+          ],
+          "E": [
+            "Allegra"
+          ],
+          "F": [
+            "Licordari"
+          ],
+          "H": [
+            "Colarusso"
+          ],
+          "I": [
+            "Pugliatti"
+          ],
+          "J": [
+            "Trio"
+          ],
+          "K": [
+            "De Gregorio"
+          ],
+          "Q": [
+            "Cusmà"
+          ],
+          "T": [
+            "Cimino"
+          ],
+          "V": [
+            "Dattilo"
+          ]
+        },
+        "2026-08-08": {
+          "C": [
+            "Cimino"
+          ],
+          "D": [
+            "Rubino"
+          ],
+          "E": [
+            "Cimino"
+          ],
+          "F": [
+            "Rubino"
+          ],
+          "H": [
+            "Cusmà"
+          ],
+          "I": [
+            "Dattilo"
+          ],
+          "J": [
+            "Colarusso"
+          ],
+          "K": [
+            "Allegra"
+          ],
+          "Q": [
+            "Pugliatti"
+          ],
+          "T": [
+            "Allegra"
+          ]
+        },
+        "2026-08-09": {
+          "C": [
+            "Pugliatti"
+          ],
+          "D": [
+            "De Gregorio"
+          ],
+          "E": [
+            "De Gregorio"
+          ],
+          "H": [
+            "Cimino"
+          ],
+          "I": [
+            "Cimino"
+          ],
+          "J": [
+            "Cusmà"
+          ]
+        },
+        "2026-08-10": {
+          "C": [
+            "Trio"
+          ],
+          "D": [
+            "Trio"
+          ],
+          "E": [
+            "Cimino"
+          ],
+          "F": [
+            "Trio"
+          ],
+          "H": [
+            "Colarusso"
+          ],
+          "I": [
+            "De Gregorio"
+          ],
+          "J": [
+            "Dattilo"
+          ],
+          "K": [
+            "Pugliatti"
+          ],
+          "L": [
+            "Licordari"
+          ],
+          "Q": [
+            "Rubino"
+          ],
+          "T": [
+            "Pugliatti"
+          ],
+          "V": [
+            "Allegra"
+          ]
+        },
+        "2026-08-11": {
+          "C": [
+            "Colarusso"
+          ],
+          "D": [
+            "Trio"
+          ],
+          "E": [
+            "De Gregorio"
+          ],
+          "F": [
+            "Trio"
+          ],
+          "H": [
+            "Cusmà"
+          ],
+          "I": [
+            "Pugliatti"
+          ],
+          "J": [
+            "Allegra"
+          ],
+          "K": [
+            "Cimino"
+          ],
+          "L": [
+            "Colarusso"
+          ],
+          "Q": [
+            "Licordari"
+          ],
+          "T": [
+            "Rubino"
+          ]
+        },
+        "2026-08-12": {
+          "C": [
+            "Cusmà"
+          ],
+          "D": [
+            "Trio"
+          ],
+          "E": [
+            "Rubino"
+          ],
+          "F": [
+            "Trio"
+          ],
+          "H": [
+            "Licordari"
+          ],
+          "I": [
+            "De Gregorio"
+          ],
+          "J": [
+            "Cimino"
+          ],
+          "K": [
+            "Cusmà"
+          ],
+          "Q": [
+            "Colarusso"
+          ],
+          "T": [
+            "Pugliatti"
+          ],
+          "V": [
+            "Dattilo"
+          ]
+        },
+        "2026-08-13": {
+          "C": [
+            "Pugliatti"
+          ],
+          "D": [
+            "Cusmà"
+          ],
+          "E": [
+            "De Gregorio"
+          ],
+          "F": [
+            "Cusmà"
+          ],
+          "H": [
+            "Rubino"
+          ],
+          "I": [
+            "Dattilo"
+          ],
+          "K": [
+            "Pugliatti"
+          ],
+          "L": [
+            "Trio"
+          ],
+          "Q": [
+            "Licordari"
+          ],
+          "T": [
+            "Allegra"
+          ]
+        },
+        "2026-08-14": {
+          "C": [
+            "Dattilo"
+          ],
+          "D": [
+            "Cusmà"
+          ],
+          "E": [
+            "Pugliatti"
+          ],
+          "F": [
+            "Cusmà"
+          ],
+          "H": [
+            "Licordari"
+          ],
+          "I": [
+            "Cimino"
+          ],
+          "J": [
+            "Colarusso"
+          ],
+          "K": [
+            "Allegra"
+          ],
+          "Q": [
+            "Rubino"
+          ],
+          "T": [
+            "Allegra"
+          ],
+          "V": [
+            "Dattilo"
+          ]
+        },
+        "2026-08-15": {
+          "C": [
+            "Crea"
+          ],
+          "D": [
+            "Dattilo"
+          ],
+          "E": [
+            "Dattilo"
+          ],
+          "H": [
+            "Allegra"
+          ],
+          "I": [
+            "Allegra"
+          ],
+          "J": [
+            "Migliorato"
+          ]
+        },
+        "2026-08-16": {
+          "C": [
+            "Allegra"
+          ],
+          "D": [
+            "Colarusso"
+          ],
+          "E": [
+            "Colarusso"
+          ],
+          "H": [
+            "Licordari"
+          ],
+          "I": [
+            "Licordari"
+          ],
+          "J": [
+            "Rubino"
+          ]
+        },
+        "2026-08-17": {
+          "C": [
+            "Grimaldi"
+          ],
+          "D": [
+            "Grimaldi"
+          ],
+          "E": [
+            "Manganaro"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Colarusso"
+          ],
+          "I": [
+            "Allegra"
+          ],
+          "J": [
+            "Calabrò"
+          ],
+          "K": [
+            "Licordari"
+          ],
+          "Q": [
+            "Zito"
+          ],
+          "T": [
+            "Recupero"
+          ],
+          "V": [
+            "Crea"
+          ]
+        },
+        "2026-08-18": {
+          "C": [
+            "Crea"
+          ],
+          "D": [
+            "Grimaldi"
+          ],
+          "E": [
+            "Allegra"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Manganaro"
+          ],
+          "I": [
+            "Crea"
+          ],
+          "J": [
+            "Zito"
+          ],
+          "K": [
+            "Colarusso"
+          ],
+          "L": [
+            "Recupero"
+          ],
+          "Q": [
+            "Licordari"
+          ],
+          "T": [
+            "Colarusso"
+          ]
+        },
+        "2026-08-19": {
+          "C": [
+            "Migliorato"
+          ],
+          "D": [
+            "Grimaldi"
+          ],
+          "E": [
+            "Manganaro"
+          ],
+          "F": [
+            "Calabrò"
+          ],
+          "H": [
+            "Migliorato"
+          ],
+          "I": [
+            "Allegra"
+          ],
+          "J": [
+            "Colarusso"
+          ],
+          "K": [
+            "Licordari"
+          ],
+          "Q": [
+            "Recupero"
+          ],
+          "T": [
+            "Licordari"
+          ],
+          "V": [
+            "Crea"
+          ]
+        },
+        "2026-08-20": {
+          "C": [
+            "Calabrò"
+          ],
+          "D": [
+            "Calabrò"
+          ],
+          "E": [
+            "Allegra"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Licordari"
+          ],
+          "I": [
+            "Crea"
+          ],
+          "K": [
+            "Manganaro"
+          ],
+          "Q": [
+            "Zito"
+          ],
+          "T": [
+            "Recupero"
+          ]
+        },
+        "2026-08-21": {
+          "C": [
+            "Rubino"
+          ],
+          "D": [
+            "Calabrò"
+          ],
+          "E": [
+            "Rubino"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Migliorato"
+          ],
+          "I": [
+            "Allegra"
+          ],
+          "J": [
+            "Licordari"
+          ],
+          "K": [
+            "Colarusso"
+          ],
+          "Q": [
+            "Manganaro"
+          ],
+          "T": [
+            "Colarusso"
+          ],
+          "V": [
+            "Crea"
+          ]
+        },
+        "2026-08-22": {
+          "C": [
+            "Colarusso"
+          ],
+          "D": [
+            "Calabrò"
+          ],
+          "E": [
+            "Allegra"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Rubino"
+          ],
+          "I": [
+            "Crea"
+          ],
+          "J": [
+            "Migliorato"
+          ],
+          "K": [
+            "Manganaro"
+          ],
+          "Q": [
+            "Colarusso"
+          ],
+          "T": [
+            "Manganaro"
+          ]
+        },
+        "2026-08-23": {
+          "C": [
+            "Allegra"
+          ],
+          "D": [
+            "Rubino"
+          ],
+          "E": [
+            "Rubino"
+          ],
+          "H": [
+            "Manganaro"
+          ],
+          "I": [
+            "Manganaro"
+          ],
+          "J": [
+            "Crea"
+          ]
+        },
+        "2026-08-24": {
+          "C": [
+            "Licordari"
+          ],
+          "D": [
+            "Grimaldi"
+          ],
+          "E": [
+            "Manganaro"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Migliorato"
+          ],
+          "I": [
+            "Rubino"
+          ],
+          "J": [
+            "Calabrò"
+          ],
+          "K": [
+            "Colarusso"
+          ],
+          "L": [
+            "Recupero"
+          ],
+          "Q": [
+            "Licordari"
+          ],
+          "T": [
+            "Colarusso"
+          ],
+          "V": [
+            "Allegra"
+          ]
+        },
+        "2026-08-25": {
+          "C": [
+            "Migliorato"
+          ],
+          "D": [
+            "Grimaldi"
+          ],
+          "E": [
+            "Allegra"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Colarusso"
+          ],
+          "I": [
+            "Crea"
+          ],
+          "J": [
+            "Rubino"
+          ],
+          "K": [
+            "Licordari"
+          ],
+          "L": [
+            "Recupero"
+          ],
+          "Q": [
+            "Manganaro"
+          ],
+          "T": [
+            "Licordari"
+          ]
+        },
+        "2026-08-26": {
+          "C": [
+            "Crea"
+          ],
+          "D": [
+            "Grimaldi"
+          ],
+          "E": [
+            "Manganaro"
+          ],
+          "F": [
+            "Calabrò"
+          ],
+          "H": [
+            "Licordari"
+          ],
+          "I": [
+            "Allegra"
+          ],
+          "K": [
+            "Colarusso"
+          ],
+          "Q": [
+            "Recupero"
+          ],
+          "T": [
+            "Colarusso"
+          ],
+          "V": [
+            "Crea"
+          ]
+        },
+        "2026-08-27": {
+          "C": [
+            "Allegra"
+          ],
+          "D": [
+            "Calabrò"
+          ],
+          "E": [
+            "Rubino"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Migliorato"
+          ],
+          "I": [
+            "Crea"
+          ],
+          "K": [
+            "Manganaro"
+          ],
+          "Q": [
+            "Colarusso"
+          ],
+          "T": [
+            "Recupero"
+          ]
+        },
+        "2026-08-28": {
+          "C": [
+            "Grimaldi"
+          ],
+          "D": [
+            "Calabrò"
+          ],
+          "E": [
+            "Crea"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Manganaro"
+          ],
+          "I": [
+            "Rubino"
+          ],
+          "J": [
+            "Migliorato"
+          ],
+          "K": [
+            "Colarusso"
+          ],
+          "Q": [
+            "Zito"
+          ],
+          "T": [
+            "Recupero"
+          ],
+          "V": [
+            "Allegra"
+          ]
+        },
+        "2026-08-29": {
+          "C": [
+            "Calabrò"
+          ],
+          "D": [
+            "Calabrò"
+          ],
+          "E": [
+            "Crea"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Rubino"
+          ],
+          "I": [
+            "Allegra"
+          ],
+          "J": [
+            "Zito"
+          ],
+          "K": [
+            "Manganaro"
+          ],
+          "T": [
+            "Manganaro"
+          ]
+        },
+        "2026-08-30": {
+          "C": [
+            "Rubino"
+          ],
+          "D": [
+            "Crea"
+          ],
+          "E": [
+            "Crea"
+          ],
+          "H": [
+            "Manganaro"
+          ],
+          "I": [
+            "Manganaro"
+          ],
+          "J": [
+            "Allegra"
+          ]
+        },
+        "2026-08-31": {
+          "C": [
+            "Trio"
+          ],
+          "D": [
+            "Grimaldi"
+          ],
+          "E": [
+            "Manganaro"
+          ],
+          "F": [
+            "Calabrò"
+          ],
+          "H": [
+            "Migliorato"
+          ],
+          "I": [
+            "Rubino"
+          ],
+          "J": [
+            "Crea"
+          ],
+          "K": [
+            "Trio"
+          ],
+          "Q": [
+            "Zito"
+          ],
+          "T": [
+            "Trio"
+          ]
+        },
+        "2026-09-01": {
+          "C": [
+            "Colarusso"
+          ],
+          "D": [
+            "Grimaldi"
+          ],
+          "E": [
+            "Cimino"
+          ],
+          "F": [
+            "Calabrò"
+          ],
+          "H": [
+            "Trio"
+          ],
+          "I": [
+            "Dattilo"
+          ],
+          "J": [
+            "Pugliatti"
+          ],
+          "K": [
+            "Allegra"
+          ],
+          "L": [
+            "Cusmà"
+          ],
+          "Q": [
+            "Manganaro"
+          ],
+          "T": [
+            "Colarusso"
+          ]
+        },
+        "2026-09-02": {
+          "C": [
+            "Trio"
+          ],
+          "D": [
+            "Grimaldi"
+          ],
+          "E": [
+            "Dattilo"
+          ],
+          "F": [
+            "Calabrò"
+          ],
+          "H": [
+            "Migliorato"
+          ],
+          "I": [
+            "Cimino"
+          ],
+          "J": [
+            "Rubino"
+          ],
+          "K": [
+            "Cusmà"
+          ],
+          "Q": [
+            "Recupero"
+          ],
+          "T": [
+            "Allegra"
+          ],
+          "V": [
+            "Crea"
+          ]
+        },
+        "2026-09-03": {
+          "C": [
+            "Cusmà"
+          ],
+          "D": [
+            "Calabrò"
+          ],
+          "E": [
+            "Allegra"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Cusmà"
+          ],
+          "I": [
+            "De Gregorio"
+          ],
+          "K": [
+            "Manganaro"
+          ],
+          "L": [
+            "Recupero"
+          ],
+          "Q": [
+            "Colarusso"
+          ],
+          "T": [
+            "Trio"
+          ]
+        },
+        "2026-09-04": {
+          "C": [
+            "Calabrò"
+          ],
+          "D": [
+            "Calabrò"
+          ],
+          "E": [
+            "De Gregorio"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Colarusso"
+          ],
+          "I": [
+            "Rubino"
+          ],
+          "J": [
+            "Cimino"
+          ],
+          "K": [
+            "Trio"
+          ],
+          "Q": [
+            "Cusmà"
+          ],
+          "T": [
+            "Recupero"
+          ],
+          "V": [
+            "Dattilo"
+          ]
+        },
+        "2026-09-05": {
+          "C": [
+            "Crea"
+          ],
+          "D": [
+            "Grimaldi"
+          ],
+          "E": [
+            "Rubino"
+          ],
+          "F": [
+            "Grimaldi"
+          ],
+          "H": [
+            "Cusmà"
+          ],
+          "I": [
+            "Allegra"
+          ],
+          "J": [
+            "Licordari"
+          ],
+          "K": [
+            "De Gregorio"
+          ],
+          "Q": [
+            "Zito"
+          ],
+          "T": [
+            "Manganaro"
+          ]
+        },
+        "2026-09-06": {
+          "C": [
+            "Allegra"
+          ],
+          "D": [
+            "Cusmà"
+          ],
+          "E": [
+            "Cusmà"
+          ],
+          "H": [
+            "De Gregorio"
+          ],
+          "I": [
+            "De Gregorio"
+          ],
+          "J": [
+            "Trio"
+          ]
+        }
+      },
+      "source": "streamlit"
     }
   ]
 }
