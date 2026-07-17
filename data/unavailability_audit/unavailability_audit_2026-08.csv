@@ -31,3 +31,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-07-17T05:29:22Z,Crea,2026-08,admin_save,15,14,0,1,0,"{""added"": [], ""removed"": [{""date"": ""2026-08-01"", ""shift"": ""Mattina""}], ""note_changed"": []}",2026-02-01-ui-v7
 2026-07-17T06:42:40Z,Trio,2026-08,admin_save,17,20,3,0,0,"{""added"": [{""date"": ""2026-08-04"", ""shift"": ""Mattina""}, {""date"": ""2026-08-08"", ""shift"": ""Notte""}, {""date"": ""2026-08-08"", ""shift"": ""Pomeriggio""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-07-17T09:46:23Z,Rubino,2026-08,save,7,8,1,0,0,"{""added"": [{""date"": ""2026-08-01"", ""shift"": ""Mattina""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-07-17T09:50:44Z,Rubino,2026-08,save,8,9,1,0,0,"{""added"": [{""date"": ""2026-08-13"", ""shift"": ""Mattina""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
