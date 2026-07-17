@@ -1,8 +1,8 @@
 {
   "doctor": "",
-  "session_id": "504697d8-c41d-4500-8d78-4c027f8ef3b8",
-  "issued_at": "2026-07-17T05:49:56Z",
-  "last_seen": "2026-07-17T05:49:56Z",
-  "expires_at": "2026-07-17T04:09:56Z",
+  "session_id": "2134a3dc-f697-446c-b99a-c196ff96c929",
+  "issued_at": "2026-07-17T05:52:15Z",
+  "last_seen": "2026-07-17T05:52:15Z",
+  "expires_at": "2026-07-17T04:12:15Z",
   "app_build": "2026-02-01-ui-v7"
 }
