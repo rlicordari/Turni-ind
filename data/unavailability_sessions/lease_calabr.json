@@ -1,8 +1,8 @@
 {
   "doctor": "Calabrò",
-  "session_id": "9e6af04d-4ca9-4a19-b80f-8a5c7fe508f1",
-  "issued_at": "2026-06-26T09:53:44Z",
-  "last_seen": "2026-06-26T09:53:44Z",
-  "expires_at": "2026-06-26T10:13:44Z",
+  "session_id": "9f3f7c56-2abe-466a-bad8-bf003424858b",
+  "issued_at": "2026-07-17T10:12:14Z",
+  "last_seen": "2026-07-17T10:12:14Z",
+  "expires_at": "2026-07-17T10:32:14Z",
   "app_build": "2026-02-01-ui-v7"
 }
