@@ -1,8 +1,8 @@
 {
   "doctor": "Rubino",
-  "session_id": "d91589dc-575c-4432-8c8e-be641101f326",
-  "issued_at": "2026-07-17T15:36:11Z",
-  "last_seen": "2026-07-17T15:37:21Z",
-  "expires_at": "2026-07-17T15:57:21Z",
+  "session_id": "515a0f77-b895-4b6c-a0ca-7f8e3e6b3ad8",
+  "issued_at": "2026-07-18T08:04:03Z",
+  "last_seen": "2026-07-18T08:04:03Z",
+  "expires_at": "2026-07-18T08:24:03Z",
   "app_build": "2026-02-01-ui-v7"
 }
