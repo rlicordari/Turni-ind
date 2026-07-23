@@ -1,8 +1,8 @@
 {
   "doctor": "Manganaro",
-  "session_id": "f0221049-01e5-489a-bfb7-b6ce9b4f300a",
-  "issued_at": "2026-07-15T18:18:43Z",
-  "last_seen": "2026-07-15T18:19:44Z",
-  "expires_at": "2026-07-15T18:39:44Z",
+  "session_id": "f7b1012d-9ddd-40d3-9c47-5753612c3c13",
+  "issued_at": "2026-07-23T09:41:17Z",
+  "last_seen": "2026-07-23T09:41:17Z",
+  "expires_at": "2026-07-23T10:01:17Z",
   "app_build": "2026-02-01-ui-v7"
 }
