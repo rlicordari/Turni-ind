@@ -30,3 +30,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-08-10T17:28:53Z,Trio,2026-09,save,4,5,1,0,0,"{""added"": [{""date"": ""2026-09-10"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-08-10T17:30:21Z,Trio,2026-09,save,5,8,3,0,0,"{""added"": [{""date"": ""2026-09-11"", ""shift"": ""Ferie""}, {""date"": ""2026-09-12"", ""shift"": ""Ferie""}, {""date"": ""2026-09-13"", ""shift"": ""Ferie""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-08-10T17:30:54Z,Trio,2026-09,save,8,9,1,0,0,"{""added"": [{""date"": ""2026-09-20"", ""shift"": ""Notte""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-08-10T17:31:27Z,Trio,2026-09,save,9,10,1,0,0,"{""added"": [{""date"": ""2026-09-21"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
