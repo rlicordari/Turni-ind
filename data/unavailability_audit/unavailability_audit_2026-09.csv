@@ -47,3 +47,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-08-13T20:01:37Z,De Gregorio,2026-09,save,11,13,2,0,0,"{""added"": [{""date"": ""2026-09-24"", ""shift"": ""Diurno""}, {""date"": ""2026-09-28"", ""shift"": ""Diurno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-08-13T20:02:43Z,De Gregorio,2026-09,save,13,14,1,0,0,"{""added"": [{""date"": ""2026-09-22"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-08-13T20:07:44Z,De Gregorio,2026-09,save,15,16,1,0,0,"{""added"": [{""date"": ""2026-09-19"", ""shift"": ""Diurno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-08-13T20:08:55Z,De Gregorio,2026-09,save,16,16,1,1,0,"{""added"": [{""date"": ""2026-09-26"", ""shift"": ""Tutto il giorno""}], ""removed"": [{""date"": ""2026-09-24"", ""shift"": ""Diurno""}], ""note_changed"": []}",2026-02-01-ui-v7
