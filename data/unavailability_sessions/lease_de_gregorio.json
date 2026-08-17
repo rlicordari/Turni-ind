@@ -1,8 +1,8 @@
 {
   "doctor": "De Gregorio",
-  "session_id": "b1d2449a-a66e-40d3-affc-ee1e3c622acc",
-  "issued_at": "2026-08-13T19:47:21Z",
-  "last_seen": "2026-08-13T20:26:03Z",
-  "expires_at": "2026-08-13T20:26:03Z",
+  "session_id": "f25ff302-30dd-45cb-8059-d9a138dc8bcc",
+  "issued_at": "2026-08-17T16:03:06Z",
+  "last_seen": "2026-08-17T16:03:06Z",
+  "expires_at": "2026-08-17T16:23:06Z",
   "app_build": "2026-02-01-ui-v7"
 }
