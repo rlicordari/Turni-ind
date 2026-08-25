@@ -88,3 +88,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-08-25T11:29:02Z,Licordari,2026-09,save,13,16,3,0,0,"{""added"": [{""date"": ""2026-09-28"", ""shift"": ""Tutto il giorno""}, {""date"": ""2026-09-29"", ""shift"": ""Notte""}, {""date"": ""2026-09-29"", ""shift"": ""Pomeriggio""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-08-25T11:30:50Z,Licordari,2026-09,save,16,17,1,0,0,"{""added"": [{""date"": ""2026-09-21"", ""shift"": ""Tutto il giorno""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-08-25T11:33:36Z,Licordari,2026-09,save,17,18,1,0,0,"{""added"": [{""date"": ""2026-09-14"", ""shift"": ""Pomeriggio""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-08-25T11:33:57Z,Licordari,2026-09,save,18,19,1,0,0,"{""added"": [{""date"": ""2026-09-07"", ""shift"": ""Pomeriggio""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
