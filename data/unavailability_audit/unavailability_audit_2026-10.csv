@@ -15,3 +15,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-09-16T06:10:25Z,Cimino,2026-10,save,1,2,1,0,0,"{""added"": [{""date"": ""2026-10-26"", ""shift"": ""Notte""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-09-16T06:11:28Z,Cimino,2026-10,save,2,3,1,0,0,"{""added"": [{""date"": ""2026-10-11"", ""shift"": ""Notte""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-09-16T06:13:24Z,Cimino,2026-10,save,3,4,1,0,0,"{""added"": [{""date"": ""2026-10-01"", ""shift"": ""Mattina""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-09-16T06:14:13Z,Cimino,2026-10,save,4,4,1,1,0,"{""added"": [{""date"": ""2026-10-12"", ""shift"": ""Tutto il giorno""}], ""removed"": [{""date"": ""2026-10-01"", ""shift"": ""Mattina""}], ""note_changed"": []}",2026-02-01-ui-v7
