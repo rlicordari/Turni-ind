@@ -71,3 +71,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-09-19T17:50:08Z,Crea,2026-10,save,10,11,1,0,0,"{""added"": [{""date"": ""2026-10-08"", ""shift"": ""Notte""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-09-19T17:50:18Z,Crea,2026-10,save,11,12,1,0,0,"{""added"": [{""date"": ""2026-10-09"", ""shift"": ""Mattina""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-09-19T17:51:02Z,Crea,2026-10,save,12,14,2,0,0,"{""added"": [{""date"": ""2026-10-06"", ""shift"": ""Notte""}, {""date"": ""2026-10-13"", ""shift"": ""Notte""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-09-19T17:51:20Z,Crea,2026-10,save,14,15,1,0,0,"{""added"": [{""date"": ""2026-10-20"", ""shift"": ""Notte""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
