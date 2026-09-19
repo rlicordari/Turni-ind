@@ -69,3 +69,4 @@ ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,no
 2026-09-19T17:49:12Z,Crea,2026-10,save,6,7,2,1,0,"{""added"": [{""date"": ""2026-10-23"", ""shift"": ""Ferie""}, {""date"": ""2026-10-24"", ""shift"": ""Diurno""}], ""removed"": [{""date"": ""2026-10-23"", ""shift"": ""Mattina""}], ""note_changed"": []}",2026-02-01-ui-v7
 2026-09-19T17:49:58Z,Crea,2026-10,save,7,10,3,0,0,"{""added"": [{""date"": ""2026-10-08"", ""shift"": ""Pomeriggio""}, {""date"": ""2026-10-28"", ""shift"": ""Ferie""}, {""date"": ""2026-10-29"", ""shift"": ""Ferie""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
 2026-09-19T17:50:08Z,Crea,2026-10,save,10,11,1,0,0,"{""added"": [{""date"": ""2026-10-08"", ""shift"": ""Notte""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
+2026-09-19T17:50:18Z,Crea,2026-10,save,11,12,1,0,0,"{""added"": [{""date"": ""2026-10-09"", ""shift"": ""Mattina""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
