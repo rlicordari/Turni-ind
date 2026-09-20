@@ -1,8 +1,8 @@
 {
   "doctor": "Pugliatti",
-  "session_id": "78369410-0201-48c8-be1d-fdbd25d4ff4c",
-  "issued_at": "2026-09-20T17:35:17Z",
-  "last_seen": "2026-09-20T18:18:22Z",
-  "expires_at": "2026-09-20T18:18:22Z",
+  "session_id": "fe9e1aa9-0821-4a7e-91bd-624f2a417f15",
+  "issued_at": "2026-09-20T18:18:49Z",
+  "last_seen": "2026-09-20T18:18:49Z",
+  "expires_at": "2026-09-20T18:38:49Z",
   "app_build": "2026-02-01-ui-v7"
 }
