@@ -1,0 +1,2 @@
+ts_utc,doctor,month,action,before_count,after_count,added_count,removed_count,note_changed_count,details_json,app_build
+2026-09-30T20:43:33Z,Licordari,2026-11,save,0,5,5,0,0,"{""added"": [{""date"": ""2026-11-02"", ""shift"": ""Ferie""}, {""date"": ""2026-11-03"", ""shift"": ""Ferie""}, {""date"": ""2026-11-04"", ""shift"": ""Ferie""}, {""date"": ""2026-11-05"", ""shift"": ""Ferie""}, {""date"": ""2026-11-06"", ""shift"": ""Ferie""}], ""removed"": [], ""note_changed"": []}",2026-02-01-ui-v7
