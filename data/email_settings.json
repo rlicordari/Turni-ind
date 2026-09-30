@@ -1,0 +1,11 @@
+{
+  "username": "robertolicordari@gmail.com",
+  "from": "",
+  "host": "smtp.gmail.com",
+  "port": 587,
+  "starttls": true,
+  "password_enc": "gAAAAABqvXRB5it29skm84-9Izx7KxsbDa6t-1XEGzhzmc0rliZHe73VyB6z0F27HA4q9iQvTKeCioZViHQ7w61_7oHdl_d--yGvTXVbn24ZM7oiUkvFhwU=",
+  "password_set_at": "2026-09-30T20:42:41Z",
+  "updated_at": "2026-09-30T20:42:41Z",
+  "updated_by": "admin"
+}
