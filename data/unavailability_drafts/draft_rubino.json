@@ -8,10 +8,40 @@
           "2026-11-20",
           "Pomeriggio",
           ""
+        ],
+        [
+          "2026-11-21",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-22",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-23",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-24",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-25",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-26",
+          "Mattina",
+          ""
         ]
       ],
       "session_id": "c9852de9-acdd-438f-b580-89740a484ce0",
-      "updated_at": "2026-10-09T13:48:16Z"
+      "updated_at": "2026-10-09T13:50:16Z"
     }
   },
   "schema_version": 1
