@@ -1,0 +1,18 @@
+{
+  "doctor": "Trio",
+  "months": {
+    "2026-11": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2026-11-13",
+          "Notte",
+          ""
+        ]
+      ],
+      "session_id": "099f8069-46a2-47a3-aad3-3b313338b0a3",
+      "updated_at": "2026-10-10T15:58:44Z"
+    }
+  },
+  "schema_version": 1
+}
