@@ -15,6 +15,26 @@
           ""
         ],
         [
+          "2026-11-06",
+          "Notte",
+          ""
+        ],
+        [
+          "2026-11-06",
+          "Pomeriggio",
+          ""
+        ],
+        [
+          "2026-11-07",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-08",
+          "Tutto il giorno",
+          ""
+        ],
+        [
           "2026-11-20",
           "Pomeriggio",
           ""
@@ -31,17 +51,17 @@
         ],
         [
           "2026-11-23",
-          "Tutto il giorno",
+          "Ferie",
           ""
         ],
         [
           "2026-11-24",
-          "Tutto il giorno",
+          "Ferie",
           ""
         ],
         [
           "2026-11-25",
-          "Tutto il giorno",
+          "Ferie",
           ""
         ],
         [
@@ -50,8 +70,8 @@
           ""
         ]
       ],
-      "session_id": "c9852de9-acdd-438f-b580-89740a484ce0",
-      "updated_at": "2026-10-09T13:50:55Z"
+      "session_id": "0fd526cd-7893-441b-871d-ace0504ee68c",
+      "updated_at": "2026-10-11T11:44:18Z"
     }
   },
   "schema_version": 1
