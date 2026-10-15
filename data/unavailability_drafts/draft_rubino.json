@@ -35,6 +35,11 @@
           ""
         ],
         [
+          "2026-11-09",
+          "Mattina",
+          ""
+        ],
+        [
           "2026-11-20",
           "Pomeriggio",
           ""
@@ -70,8 +75,8 @@
           ""
         ]
       ],
-      "session_id": "0d0e1b32-4e0e-4896-8f94-f85a3381a30f",
-      "updated_at": "2026-10-14T13:26:29Z"
+      "session_id": "67af2248-dfa6-4fd7-b424-14afef8c39c8",
+      "updated_at": "2026-10-15T17:51:06Z"
     }
   },
   "schema_version": 1
