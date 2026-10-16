@@ -116,11 +116,6 @@
           ""
         ],
         [
-          "2026-11-07",
-          "Tutto il giorno",
-          ""
-        ],
-        [
           "2026-11-09",
           "Pomeriggio",
           ""
@@ -182,7 +177,7 @@
         ]
       ],
       "session_id": "0f7f15c3-dd9a-4ab9-a933-8870a92b4a23",
-      "updated_at": "2026-10-16T11:50:33Z"
+      "updated_at": "2026-10-16T11:51:39Z"
     }
   },
   "schema_version": 1
