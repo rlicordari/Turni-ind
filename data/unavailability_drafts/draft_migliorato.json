@@ -1,0 +1,28 @@
+{
+  "doctor": "Migliorato",
+  "months": {
+    "2026-11": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2026-11-13",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-11-14",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-11-15",
+          "Ferie",
+          ""
+        ]
+      ],
+      "session_id": "4479e2ae-fa5c-4abf-806e-612f436a7e86",
+      "updated_at": "2026-10-18T07:23:31Z"
+    }
+  },
+  "schema_version": 1
+}
