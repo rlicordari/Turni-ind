@@ -13,12 +13,37 @@
           "2026-11-06",
           "Pomeriggio",
           ""
+        ],
+        [
+          "2026-11-07",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-08",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-09",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-10",
+          "Mattina",
+          ""
+        ],
+        [
+          "2026-11-28",
+          "Tutto il giorno",
+          ""
         ]
       ],
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "3b084775-d5c4-4427-b7bd-acc973f8d11c",
-      "updated_at": "2026-10-19T18:28:16Z"
+      "updated_at": "2026-10-19T18:30:35Z"
     }
   },
   "schema_version": 1
