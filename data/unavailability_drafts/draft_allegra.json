@@ -30,6 +30,16 @@
           ""
         ],
         [
+          "2026-11-07",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-08",
+          "Tutto il giorno",
+          ""
+        ],
+        [
           "2026-11-09",
           "Pomeriggio",
           ""
@@ -81,7 +91,7 @@
         ]
       ],
       "session_id": "f8fa0249-0066-493f-aaf2-21cfe2023224",
-      "updated_at": "2026-10-19T15:33:01Z"
+      "updated_at": "2026-10-19T15:33:08Z"
     }
   },
   "schema_version": 1
