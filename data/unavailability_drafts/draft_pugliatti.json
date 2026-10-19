@@ -38,12 +38,24 @@
           "2026-11-28",
           "Tutto il giorno",
           ""
+        ],
+        [
+          "2026-11-29",
+          "Tutto il giorno",
+          ""
         ]
       ],
       "pref_base_signature": [],
-      "pref_entries": [],
+      "pref_entries": [
+        [
+          "2026-11-01",
+          "Notte",
+          "",
+          "media"
+        ]
+      ],
       "session_id": "3b084775-d5c4-4427-b7bd-acc973f8d11c",
-      "updated_at": "2026-10-19T18:30:35Z"
+      "updated_at": "2026-10-19T18:31:33Z"
     }
   },
   "schema_version": 1
