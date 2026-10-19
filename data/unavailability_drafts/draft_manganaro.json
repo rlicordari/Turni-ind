@@ -1,0 +1,18 @@
+{
+  "doctor": "Manganaro",
+  "months": {
+    "2026-11": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2026-11-19",
+          "Pomeriggio",
+          ""
+        ]
+      ],
+      "session_id": "de3a6cc5-e8f5-4e65-91fa-1b048d668b73",
+      "updated_at": "2026-10-19T07:23:44Z"
+    }
+  },
+  "schema_version": 1
+}
