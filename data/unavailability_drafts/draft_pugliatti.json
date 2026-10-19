@@ -1,0 +1,20 @@
+{
+  "doctor": "Pugliatti",
+  "months": {
+    "2026-11": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2026-11-06",
+          "Pomeriggio",
+          ""
+        ]
+      ],
+      "pref_base_signature": [],
+      "pref_entries": [],
+      "session_id": "3b084775-d5c4-4427-b7bd-acc973f8d11c",
+      "updated_at": "2026-10-19T18:28:15Z"
+    }
+  },
+  "schema_version": 1
+}
