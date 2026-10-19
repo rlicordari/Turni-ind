@@ -1,0 +1,18 @@
+{
+  "doctor": "Calabrò",
+  "months": {
+    "2026-11": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2026-11-03",
+          "Notte",
+          ""
+        ]
+      ],
+      "session_id": "58e75a3b-a537-4ec4-beea-194b0cb577c8",
+      "updated_at": "2026-10-19T15:59:40Z"
+    }
+  },
+  "schema_version": 1
+}
