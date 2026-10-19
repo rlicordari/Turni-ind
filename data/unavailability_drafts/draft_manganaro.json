@@ -5,6 +5,11 @@
       "base_signature": [],
       "entries": [
         [
+          "2026-11-07",
+          "Pomeriggio",
+          ""
+        ],
+        [
           "2026-11-15",
           "Tutto il giorno",
           ""
@@ -41,7 +46,7 @@
         ]
       ],
       "session_id": "de3a6cc5-e8f5-4e65-91fa-1b048d668b73",
-      "updated_at": "2026-10-19T07:25:11Z"
+      "updated_at": "2026-10-19T07:27:19Z"
     }
   },
   "schema_version": 1
