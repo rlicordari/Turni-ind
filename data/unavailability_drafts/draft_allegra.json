@@ -95,8 +95,17 @@
           ""
         ]
       ],
-      "session_id": "1337a880-a1a2-4480-91b1-c1d3bde9d4bd",
-      "updated_at": "2026-10-19T16:00:25Z"
+      "pref_base_signature": [],
+      "pref_entries": [
+        [
+          "2026-11-21",
+          "Pomeriggio",
+          "",
+          "media"
+        ]
+      ],
+      "session_id": "2af9e1f8-c534-4497-88b8-f7def3d07f71",
+      "updated_at": "2026-10-19T18:39:35Z"
     }
   },
   "schema_version": 1
