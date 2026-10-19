@@ -5,8 +5,13 @@
       "base_signature": [],
       "entries": [
         [
-          "2026-11-05",
-          "Tutto il giorno",
+          "2026-11-03",
+          "Notte",
+          ""
+        ],
+        [
+          "2026-11-04",
+          "Notte",
           ""
         ],
         [
@@ -23,10 +28,65 @@
           "2026-11-08",
           "Tutto il giorno",
           ""
+        ],
+        [
+          "2026-11-10",
+          "Notte",
+          ""
+        ],
+        [
+          "2026-11-11",
+          "Notte",
+          ""
+        ],
+        [
+          "2026-11-16",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-17",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-18",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-19",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-20",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-21",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-22",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-24",
+          "Notte",
+          ""
+        ],
+        [
+          "2026-11-25",
+          "Tutto il giorno",
+          ""
         ]
       ],
-      "session_id": "bc432a13-ba5c-4739-a722-8aa03217d62e",
-      "updated_at": "2026-10-19T10:55:11Z"
+      "session_id": "8051c70f-b2fa-4bc1-a606-b0bdbfd225f8",
+      "updated_at": "2026-10-19T11:04:44Z"
     }
   },
   "schema_version": 1
