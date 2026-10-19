@@ -98,14 +98,26 @@
       "pref_base_signature": [],
       "pref_entries": [
         [
+          "2026-11-14",
+          "Notte",
+          "",
+          "alta"
+        ],
+        [
           "2026-11-21",
+          "Pomeriggio",
+          "",
+          "media"
+        ],
+        [
+          "2026-11-22",
           "Pomeriggio",
           "",
           "media"
         ]
       ],
       "session_id": "2af9e1f8-c534-4497-88b8-f7def3d07f71",
-      "updated_at": "2026-10-19T18:39:35Z"
+      "updated_at": "2026-10-19T18:39:47Z"
     }
   },
   "schema_version": 1
