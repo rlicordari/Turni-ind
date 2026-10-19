@@ -1,0 +1,18 @@
+{
+  "doctor": "Recupero",
+  "months": {
+    "2026-11": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2026-11-14",
+          "Tutto il giorno",
+          ""
+        ]
+      ],
+      "session_id": "50de4bf6-2905-455e-955e-5e9c4450e8c2",
+      "updated_at": "2026-10-19T07:49:15Z"
+    }
+  },
+  "schema_version": 1
+}
