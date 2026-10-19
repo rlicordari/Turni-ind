@@ -1,0 +1,18 @@
+{
+  "doctor": "Zito",
+  "months": {
+    "2026-11": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2026-11-05",
+          "Tutto il giorno",
+          ""
+        ]
+      ],
+      "session_id": "bc432a13-ba5c-4739-a722-8aa03217d62e",
+      "updated_at": "2026-10-19T10:54:55Z"
+    }
+  },
+  "schema_version": 1
+}
