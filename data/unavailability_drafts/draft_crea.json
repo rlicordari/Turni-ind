@@ -111,9 +111,16 @@
         ]
       ],
       "pref_base_signature": [],
-      "pref_entries": [],
+      "pref_entries": [
+        [
+          "2026-11-11",
+          "Mattina",
+          "",
+          "media"
+        ]
+      ],
       "session_id": "edc1621f-5f22-4597-b401-1b7bda0dfc2f",
-      "updated_at": "2026-10-20T14:59:23Z"
+      "updated_at": "2026-10-20T15:04:38Z"
     }
   },
   "schema_version": 1
