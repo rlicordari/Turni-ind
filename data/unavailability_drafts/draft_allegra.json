@@ -98,6 +98,12 @@
       "pref_base_signature": [],
       "pref_entries": [
         [
+          "2026-11-09",
+          "Mattina",
+          "",
+          "media"
+        ],
+        [
           "2026-11-14",
           "Notte",
           "",
@@ -116,8 +122,8 @@
           "media"
         ]
       ],
-      "session_id": "2af9e1f8-c534-4497-88b8-f7def3d07f71",
-      "updated_at": "2026-10-19T18:39:47Z"
+      "session_id": "ee99b118-2d96-4503-b715-eb3a0b160bf7",
+      "updated_at": "2026-10-20T16:21:03Z"
     }
   },
   "schema_version": 1
