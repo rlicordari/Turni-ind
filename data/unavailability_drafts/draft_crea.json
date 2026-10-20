@@ -6,6 +6,41 @@
       "entries": [
         [
           "2026-11-05",
+          "Notte",
+          ""
+        ],
+        [
+          "2026-11-05",
+          "Pomeriggio",
+          ""
+        ],
+        [
+          "2026-11-06",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-07",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-13",
+          "Mattina",
+          ""
+        ],
+        [
+          "2026-11-13",
+          "Pomeriggio",
+          ""
+        ],
+        [
+          "2026-11-17",
+          "Notte",
+          ""
+        ],
+        [
+          "2026-11-17",
           "Pomeriggio",
           ""
         ]
@@ -13,7 +48,7 @@
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "edc1621f-5f22-4597-b401-1b7bda0dfc2f",
-      "updated_at": "2026-10-20T14:55:32Z"
+      "updated_at": "2026-10-20T14:57:19Z"
     }
   },
   "schema_version": 1
