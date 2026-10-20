@@ -1,5 +1,116 @@
 {
   "doctor": "Manganaro",
-  "months": {},
+  "months": {
+    "2026-11": {
+      "base_signature": [
+        [
+          "2026-11-07",
+          "Pomeriggio",
+          ""
+        ],
+        [
+          "2026-11-14",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-15",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-19",
+          "Pomeriggio",
+          ""
+        ],
+        [
+          "2026-11-20",
+          "Pomeriggio",
+          ""
+        ],
+        [
+          "2026-11-23",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-27",
+          "Pomeriggio",
+          ""
+        ],
+        [
+          "2026-11-28",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-29",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-30",
+          "Tutto il giorno",
+          ""
+        ]
+      ],
+      "entries": [
+        [
+          "2026-11-07",
+          "Pomeriggio",
+          ""
+        ],
+        [
+          "2026-11-14",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-15",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-19",
+          "Pomeriggio",
+          ""
+        ],
+        [
+          "2026-11-20",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-23",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-27",
+          "Pomeriggio",
+          ""
+        ],
+        [
+          "2026-11-28",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-29",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-30",
+          "Tutto il giorno",
+          ""
+        ]
+      ],
+      "pref_base_signature": [],
+      "pref_entries": [],
+      "session_id": "06d87c41-9c3e-4a8d-b1f3-e9680d7d4778",
+      "updated_at": "2026-10-20T12:23:22Z"
+    }
+  },
   "schema_version": 1
 }
