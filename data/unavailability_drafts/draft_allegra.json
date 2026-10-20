@@ -45,11 +45,6 @@
           ""
         ],
         [
-          "2026-11-09",
-          "Pomeriggio",
-          ""
-        ],
-        [
           "2026-11-10",
           "Mattina",
           ""
@@ -100,7 +95,7 @@
         [
           "2026-11-09",
           "Mattina",
-          "",
+          "Sala TPSV Crea/Allegra",
           "media"
         ],
         [
@@ -123,7 +118,7 @@
         ]
       ],
       "session_id": "ee99b118-2d96-4503-b715-eb3a0b160bf7",
-      "updated_at": "2026-10-20T16:21:03Z"
+      "updated_at": "2026-10-20T16:22:23Z"
     }
   },
   "schema_version": 1
