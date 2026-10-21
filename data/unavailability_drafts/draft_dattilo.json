@@ -8,12 +8,37 @@
           "2026-11-02",
           "Tutto il giorno",
           ""
+        ],
+        [
+          "2026-11-03",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-06",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-07",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-17",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-11-23",
+          "Ferie",
+          ""
         ]
       ],
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "d2ac2e06-071e-4376-89df-8f53c65f6023",
-      "updated_at": "2026-10-21T18:16:55Z"
+      "updated_at": "2026-10-21T18:18:57Z"
     }
   },
   "schema_version": 1
