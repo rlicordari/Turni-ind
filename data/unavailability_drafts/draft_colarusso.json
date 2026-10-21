@@ -8,12 +8,52 @@
           "2026-11-03",
           "Notte",
           ""
+        ],
+        [
+          "2026-11-04",
+          "Mattina",
+          ""
+        ],
+        [
+          "2026-11-04",
+          "Notte",
+          ""
+        ],
+        [
+          "2026-11-05",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-06",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-07",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-13",
+          "Notte",
+          ""
+        ],
+        [
+          "2026-11-14",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-11-15",
+          "Tutto il giorno",
+          ""
         ]
       ],
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "c480bece-191b-4540-aa9d-1045408c434a",
-      "updated_at": "2026-10-21T20:40:18Z"
+      "updated_at": "2026-10-21T20:42:20Z"
     }
   },
   "schema_version": 1
