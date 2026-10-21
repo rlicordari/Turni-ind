@@ -1,8 +1,8 @@
 {
   "doctor": "Dattilo",
-  "salt_b64": "+f7ISNW2uNkYLL+lh6iQJw==",
-  "hash_b64": "JHZP+1OXUGHNSyoT+gwxVPADMIV+XhoA3GqEeXZlmq4=",
+  "salt_b64": "wf+Y9Sc3pJIwDnodIu4C+Q==",
+  "hash_b64": "6X4MfnasASu/VuPqtJsLzyljxFbPr08L6LbNFbxO+qw=",
   "iters": 200000,
-  "pin_updated_at": "2026-05-17T18:56:17Z",
+  "pin_updated_at": "2026-10-21T18:16:04Z",
   "app_build": "2026-02-01-ui-v7"
 }
