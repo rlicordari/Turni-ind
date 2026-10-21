@@ -2,12 +2,12 @@
   "doctor": "Dattilo",
   "channel": "email",
   "dest_masked": "gi***@unime.it",
-  "salt_b64": "8yjkJSm3hBAXzBol/ZiFcw==",
-  "code_hash_b64": "L8Yqw/bMiwI+2QGbZD36iACXHHM19dY4NhHFJWrggKI=",
-  "created_at": "2026-04-24T14:29:35Z",
-  "expires_at": "2026-04-24T14:39:35Z",
+  "salt_b64": "JpnzqhYKs47/3CbB3p+O3g==",
+  "code_hash_b64": "KZ0EDlkT/9skypzP10Wq+emqzfz+ZBS53CcfSZiCm3U=",
+  "created_at": "2026-10-21T18:14:26Z",
+  "expires_at": "2026-10-21T18:24:26Z",
   "attempts": 0,
   "max_attempts": 5,
   "app_build": "2026-02-01-ui-v7",
-  "used_at": "2026-04-24T14:30:12Z"
+  "used_at": null
 }
