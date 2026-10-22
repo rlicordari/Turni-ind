@@ -1,0 +1,20 @@
+{
+  "doctor": "De Gregorio",
+  "months": {
+    "2026-11": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2026-11-05",
+          "Tutto il giorno",
+          ""
+        ]
+      ],
+      "pref_base_signature": [],
+      "pref_entries": [],
+      "session_id": "6d2e8f40-afdf-4449-862c-e99593000704",
+      "updated_at": "2026-10-22T19:36:25Z"
+    }
+  },
+  "schema_version": 1
+}
