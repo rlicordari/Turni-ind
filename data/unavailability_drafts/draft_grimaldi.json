@@ -1,20 +1,5 @@
 {
   "doctor": "Grimaldi",
-  "months": {
-    "2026-11": {
-      "base_signature": [],
-      "entries": [
-        [
-          "2026-11-14",
-          "Tutto il giorno",
-          ""
-        ]
-      ],
-      "pref_base_signature": [],
-      "pref_entries": [],
-      "session_id": "e9e885d8-e974-4557-95fd-b7c727f4c4af",
-      "updated_at": "2026-10-22T05:44:34Z"
-    }
-  },
+  "months": {},
   "schema_version": 1
 }
