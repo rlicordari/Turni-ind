@@ -12,22 +12,22 @@
         [
           "2026-11-05",
           "Tutto il giorno",
-          ""
+          "CONGRESSO RAGUSA"
         ],
         [
           "2026-11-06",
           "Tutto il giorno",
-          ""
+          "CONGRESSO RAGUSA"
         ],
         [
           "2026-11-07",
           "Tutto il giorno",
-          ""
+          "CONGRESSO RAGUSA"
         ],
         [
           "2026-11-08",
           "Tutto il giorno",
-          ""
+          "CONGRESSO RAGUSA"
         ],
         [
           "2026-11-09",
@@ -36,7 +36,7 @@
         ],
         [
           "2026-11-14",
-          "Tutto il giorno",
+          "Ferie",
           ""
         ],
         [
@@ -51,7 +51,7 @@
         ],
         [
           "2026-11-21",
-          "Tutto il giorno",
+          "Ferie",
           ""
         ],
         [
@@ -169,7 +169,7 @@
         ]
       ],
       "session_id": "6d2e8f40-afdf-4449-862c-e99593000704",
-      "updated_at": "2026-10-22T19:44:39Z"
+      "updated_at": "2026-10-22T19:46:42Z"
     }
   },
   "schema_version": 1
