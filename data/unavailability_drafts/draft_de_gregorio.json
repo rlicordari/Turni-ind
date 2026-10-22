@@ -59,13 +59,49 @@
       "pref_entries": [
         [
           "2026-11-02",
-          "Tutto il giorno",
+          "Mattina",
+          "",
+          "media"
+        ],
+        [
+          "2026-11-03",
+          "Mattina",
+          "AMBULATORIO SCOMPENSO E CMPI",
+          "media"
+        ],
+        [
+          "2026-11-10",
+          "Mattina",
+          "",
+          "media"
+        ],
+        [
+          "2026-11-11",
+          "Pomeriggio",
+          "",
+          "media"
+        ],
+        [
+          "2026-11-12",
+          "Mattina",
+          "",
+          "media"
+        ],
+        [
+          "2026-11-13",
+          "Pomeriggio",
+          "",
+          "media"
+        ],
+        [
+          "2026-11-15",
+          "Pomeriggio",
           "",
           "media"
         ]
       ],
       "session_id": "6d2e8f40-afdf-4449-862c-e99593000704",
-      "updated_at": "2026-10-22T19:38:22Z"
+      "updated_at": "2026-10-22T19:40:54Z"
     }
   },
   "schema_version": 1
