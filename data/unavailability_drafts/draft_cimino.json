@@ -1,25 +1,5 @@
 {
   "doctor": "Cimino",
-  "months": {
-    "2027-01": {
-      "base_signature": [],
-      "entries": [
-        [
-          "2027-01-01",
-          "Notte",
-          ""
-        ],
-        [
-          "2027-01-02",
-          "Tutto il giorno",
-          ""
-        ]
-      ],
-      "pref_base_signature": [],
-      "pref_entries": [],
-      "session_id": "84710723-177d-40f1-91d5-e9b107248070",
-      "updated_at": "2026-11-13T19:29:10Z"
-    }
-  },
+  "months": {},
   "schema_version": 1
 }
