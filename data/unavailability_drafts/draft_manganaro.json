@@ -5,12 +5,12 @@
       "base_signature": [],
       "entries": [
         [
-          "2026-12-12",
-          "Tutto il giorno",
+          "2026-12-07",
+          "Pomeriggio",
           ""
         ],
         [
-          "2026-12-13",
+          "2026-12-12",
           "Tutto il giorno",
           ""
         ],
@@ -78,7 +78,7 @@
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "57e72a1c-1fff-4fc3-b356-e8dd267ae733",
-      "updated_at": "2026-11-13T15:16:22Z"
+      "updated_at": "2026-11-13T15:17:39Z"
     },
     "2027-01": {
       "base_signature": [],
