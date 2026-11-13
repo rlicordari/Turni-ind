@@ -35,6 +35,11 @@
           ""
         ],
         [
+          "2026-12-20",
+          "Tutto il giorno",
+          ""
+        ],
+        [
           "2026-12-24",
           "Ferie",
           ""
@@ -72,8 +77,8 @@
       ],
       "pref_base_signature": [],
       "pref_entries": [],
-      "session_id": "47345eed-e80b-45b5-8bf4-e708827024d9",
-      "updated_at": "2026-11-12T15:07:21Z"
+      "session_id": "57e72a1c-1fff-4fc3-b356-e8dd267ae733",
+      "updated_at": "2026-11-13T15:16:22Z"
     },
     "2027-01": {
       "base_signature": [],
