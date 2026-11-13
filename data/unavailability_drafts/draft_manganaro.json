@@ -36,7 +36,7 @@
         ],
         [
           "2026-12-24",
-          "Tutto il giorno",
+          "Ferie",
           ""
         ],
         [
@@ -46,22 +46,22 @@
         ],
         [
           "2026-12-27",
-          "Tutto il giorno",
+          "Ferie",
           ""
         ],
         [
           "2026-12-28",
-          "Tutto il giorno",
+          "Ferie",
           ""
         ],
         [
           "2026-12-29",
-          "Tutto il giorno",
+          "Ferie",
           ""
         ],
         [
           "2026-12-30",
-          "Tutto il giorno",
+          "Ferie",
           ""
         ],
         [
@@ -72,8 +72,22 @@
       ],
       "pref_base_signature": [],
       "pref_entries": [],
-      "session_id": "60487a3b-2ed1-43f9-a7ed-02c407dd576a",
-      "updated_at": "2026-11-12T15:02:24Z"
+      "session_id": "47345eed-e80b-45b5-8bf4-e708827024d9",
+      "updated_at": "2026-11-12T15:07:21Z"
+    },
+    "2027-01": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2027-01-02",
+          "Pomeriggio",
+          ""
+        ]
+      ],
+      "pref_base_signature": [],
+      "pref_entries": [],
+      "session_id": "47345eed-e80b-45b5-8bf4-e708827024d9",
+      "updated_at": "2026-11-12T15:08:12Z"
     }
   },
   "schema_version": 1
