@@ -82,12 +82,17 @@
           "2027-01-02",
           "Pomeriggio",
           ""
+        ],
+        [
+          "2027-01-03",
+          "Tutto il giorno",
+          ""
         ]
       ],
       "pref_base_signature": [],
       "pref_entries": [],
-      "session_id": "47345eed-e80b-45b5-8bf4-e708827024d9",
-      "updated_at": "2026-11-12T15:08:12Z"
+      "session_id": "57e72a1c-1fff-4fc3-b356-e8dd267ae733",
+      "updated_at": "2026-11-13T15:11:33Z"
     }
   },
   "schema_version": 1
