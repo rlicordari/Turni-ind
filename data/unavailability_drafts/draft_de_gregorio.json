@@ -156,7 +156,7 @@
         [
           "2027-01-09",
           "Diurno",
-          "D"
+          "DCEN"
         ],
         [
           "2027-01-10",
@@ -167,7 +167,7 @@
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "b8d83460-02f9-4428-908c-b341d6166e45",
-      "updated_at": "2026-11-14T20:46:03Z"
+      "updated_at": "2026-11-14T20:46:04Z"
     }
   },
   "schema_version": 1
