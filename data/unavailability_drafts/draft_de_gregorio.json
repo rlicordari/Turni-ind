@@ -27,23 +27,38 @@
         [
           "2026-12-11",
           "Tutto il giorno",
-          ""
+          "IDEM"
         ],
         [
           "2026-12-12",
           "Tutto il giorno",
-          ""
+          "IDEM"
         ],
         [
           "2026-12-13",
           "Tutto il giorno",
-          ""
+          "IDEM"
+        ],
+        [
+          "2026-12-14",
+          "Diurno",
+          "LEZIONE + TESISTI"
+        ],
+        [
+          "2026-12-15",
+          "Diurno",
+          "UNIVERSITA' = LAUREE"
+        ],
+        [
+          "2026-12-17",
+          "Diurno",
+          "UNI"
         ]
       ],
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "b8d83460-02f9-4428-908c-b341d6166e45",
-      "updated_at": "2026-11-14T20:32:42Z"
+      "updated_at": "2026-11-14T20:34:47Z"
     }
   },
   "schema_version": 1
