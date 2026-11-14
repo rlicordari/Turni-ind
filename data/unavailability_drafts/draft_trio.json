@@ -1,20 +1,5 @@
 {
   "doctor": "Trio",
-  "months": {
-    "2027-01": {
-      "base_signature": [],
-      "entries": [
-        [
-          "2027-01-04",
-          "Tutto il giorno",
-          ""
-        ]
-      ],
-      "pref_base_signature": [],
-      "pref_entries": [],
-      "session_id": "c0c5f296-a64b-4c72-af0e-e9c6db9e52d3",
-      "updated_at": "2026-11-14T09:20:39Z"
-    }
-  },
+  "months": {},
   "schema_version": 1
 }
