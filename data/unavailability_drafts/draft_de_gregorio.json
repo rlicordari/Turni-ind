@@ -137,12 +137,32 @@
           "2027-01-03",
           "Ferie",
           ""
+        ],
+        [
+          "2027-01-05",
+          "Diurno",
+          "AMB SCOMPENSO E RIABILITAZIONE"
+        ],
+        [
+          "2027-01-06",
+          "Pomeriggio",
+          "SORTEGGIO FESTIVO DIURNO"
+        ],
+        [
+          "2027-01-07",
+          "Ferie",
+          ""
+        ],
+        [
+          "2027-01-09",
+          "Diurno",
+          ""
         ]
       ],
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "b8d83460-02f9-4428-908c-b341d6166e45",
-      "updated_at": "2026-11-14T20:40:41Z"
+      "updated_at": "2026-11-14T20:43:12Z"
     }
   },
   "schema_version": 1
