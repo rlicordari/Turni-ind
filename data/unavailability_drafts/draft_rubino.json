@@ -1,5 +1,20 @@
 {
   "doctor": "Rubino",
-  "months": {},
+  "months": {
+    "2026-12": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2026-12-02",
+          "Tutto il giorno",
+          ""
+        ]
+      ],
+      "pref_base_signature": [],
+      "pref_entries": [],
+      "session_id": "35c5a2aa-f6b5-45fa-97d3-cdb47b68bd69",
+      "updated_at": "2026-11-14T15:06:39Z"
+    }
+  },
   "schema_version": 1
 }
