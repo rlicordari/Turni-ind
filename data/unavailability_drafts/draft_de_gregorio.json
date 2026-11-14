@@ -17,7 +17,7 @@
         [
           "2026-12-05",
           "Diurno",
-          ""
+          "LEZIONE"
         ],
         [
           "2026-12-06",
@@ -123,7 +123,26 @@
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "b8d83460-02f9-4428-908c-b341d6166e45",
-      "updated_at": "2026-11-14T20:39:22Z"
+      "updated_at": "2026-11-14T20:39:28Z"
+    },
+    "2027-01": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2027-01-02",
+          "Ferie",
+          ""
+        ],
+        [
+          "2027-01-03",
+          "Ferie",
+          ""
+        ]
+      ],
+      "pref_base_signature": [],
+      "pref_entries": [],
+      "session_id": "b8d83460-02f9-4428-908c-b341d6166e45",
+      "updated_at": "2026-11-14T20:40:41Z"
     }
   },
   "schema_version": 1
