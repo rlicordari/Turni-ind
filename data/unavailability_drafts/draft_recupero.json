@@ -1,20 +1,5 @@
 {
   "doctor": "Recupero",
-  "months": {
-    "2027-01": {
-      "base_signature": [],
-      "entries": [
-        [
-          "2027-01-02",
-          "Tutto il giorno",
-          ""
-        ]
-      ],
-      "pref_base_signature": [],
-      "pref_entries": [],
-      "session_id": "bbda344b-9b0a-401b-8ddd-a74c78a5fe62",
-      "updated_at": "2026-11-14T10:43:08Z"
-    }
-  },
+  "months": {},
   "schema_version": 1
 }
