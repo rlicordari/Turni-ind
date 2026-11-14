@@ -82,11 +82,6 @@
       "entries": [
         [
           "2026-12-01",
-          "Mattina",
-          ""
-        ],
-        [
-          "2026-12-01",
           "Pomeriggio",
           ""
         ],
@@ -164,7 +159,7 @@
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "83818ba6-88c9-4151-ad6c-fa33dd842c8e",
-      "updated_at": "2026-11-14T08:59:39Z"
+      "updated_at": "2026-11-14T08:59:40Z"
     }
   },
   "schema_version": 1
