@@ -52,13 +52,23 @@
         [
           "2026-12-17",
           "Diurno",
-          "UNI"
+          "UNIVERSITA' = LAUREE"
+        ],
+        [
+          "2026-12-19",
+          "Pomeriggio",
+          ""
+        ],
+        [
+          "2026-12-20",
+          "Ferie",
+          ""
         ]
       ],
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "b8d83460-02f9-4428-908c-b341d6166e45",
-      "updated_at": "2026-11-14T20:34:47Z"
+      "updated_at": "2026-11-14T20:35:19Z"
     }
   },
   "schema_version": 1
