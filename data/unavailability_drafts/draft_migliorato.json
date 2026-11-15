@@ -1,5 +1,45 @@
 {
   "doctor": "Migliorato",
-  "months": {},
+  "months": {
+    "2026-12": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2026-12-08",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-12-09",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-12-10",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-12-11",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-12-12",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-12-13",
+          "Ferie",
+          ""
+        ]
+      ],
+      "pref_base_signature": [],
+      "pref_entries": [],
+      "session_id": "fb8ef421-5603-43c6-af12-0534012b35b0",
+      "updated_at": "2026-11-15T15:53:47Z"
+    }
+  },
   "schema_version": 1
 }
