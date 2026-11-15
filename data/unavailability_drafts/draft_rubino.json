@@ -58,12 +58,17 @@
           "2026-12-18",
           "Tutto il giorno",
           ""
+        ],
+        [
+          "2026-12-19",
+          "Mattina",
+          ""
         ]
       ],
       "pref_base_signature": [],
       "pref_entries": [],
-      "session_id": "104f6f42-9ca7-4fb7-aa47-9e968aee60ef",
-      "updated_at": "2026-11-14T22:30:43Z"
+      "session_id": "2342d71a-936f-4f6e-a92f-0b42055a574f",
+      "updated_at": "2026-11-15T00:47:51Z"
     }
   },
   "schema_version": 1
