@@ -192,6 +192,11 @@
         ],
         [
           "2026-12-18",
+          "Notte",
+          ""
+        ],
+        [
+          "2026-12-18",
           "Pomeriggio",
           ""
         ],
@@ -264,7 +269,7 @@
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "50368ced-3413-4004-b14a-988b51b5e47d",
-      "updated_at": "2026-11-18T14:11:48Z"
+      "updated_at": "2026-11-18T14:11:49Z"
     },
     "2027-01": {
       "base_signature": [],
