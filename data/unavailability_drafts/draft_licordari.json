@@ -178,20 +178,6 @@
       ],
       "session_id": "0f7f15c3-dd9a-4ab9-a933-8870a92b4a23",
       "updated_at": "2026-10-16T11:51:39Z"
-    },
-    "2026-12": {
-      "base_signature": [],
-      "entries": [
-        [
-          "2026-12-04",
-          "Pomeriggio",
-          ""
-        ]
-      ],
-      "pref_base_signature": [],
-      "pref_entries": [],
-      "session_id": "a8ff1eeb-3cf5-4f79-ba0c-2950962e7002",
-      "updated_at": "2026-11-18T08:45:16Z"
     }
   },
   "schema_version": 1
