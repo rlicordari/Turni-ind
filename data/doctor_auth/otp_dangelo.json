@@ -2,12 +2,12 @@
   "doctor": "D'Angelo",
   "channel": "email",
   "dest_masked": "my***@gmail.com",
-  "salt_b64": "m/izFrTRh4G5zMh5Eoo4vA==",
-  "code_hash_b64": "Q0Uo001CgMwN51yG1TWtjH0wCqwtbkILQ1maWAA2bcQ=",
-  "created_at": "2026-03-22T22:01:46Z",
-  "expires_at": "2026-03-22T22:11:46Z",
+  "salt_b64": "vhj8nkHorRlewSQtJSda1A==",
+  "code_hash_b64": "x/Dt9JvYFrsuvDtiw1zvXHe7zodZ9oe3F3Z4ju8AAQM=",
+  "created_at": "2026-11-18T12:20:43Z",
+  "expires_at": "2026-11-18T12:30:43Z",
   "attempts": 0,
   "max_attempts": 5,
-  "app_build": "2026-02-01-ui-v7",
-  "used_at": "2026-03-22T22:02:29Z"
+  "app_build": "2026-10-25-fixed-assignments-v2",
+  "used_at": null
 }
