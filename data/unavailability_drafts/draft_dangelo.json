@@ -3,7 +3,43 @@
   "months": {
     "2026-12": {
       "base_signature": [],
-      "entries": [],
+      "entries": [
+        [
+          "2026-12-24",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-12-25",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-12-26",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-12-27",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-12-28",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-12-29",
+          "Ferie",
+          ""
+        ],
+        [
+          "2026-12-30",
+          "Ferie",
+          ""
+        ]
+      ],
       "pref_base_signature": [],
       "pref_entries": [
         [
@@ -11,10 +47,16 @@
           "Tutto il giorno",
           "",
           "media"
+        ],
+        [
+          "2026-12-19",
+          "Tutto il giorno",
+          "",
+          "media"
         ]
       ],
       "session_id": "9ec1b7b5-b87d-448a-98a5-8bb42a2ee3d7",
-      "updated_at": "2026-11-18T12:22:38Z"
+      "updated_at": "2026-11-18T12:23:56Z"
     }
   },
   "schema_version": 1
