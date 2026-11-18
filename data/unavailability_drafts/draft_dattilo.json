@@ -33,12 +33,22 @@
           "2026-12-14",
           "Tutto il giorno",
           ""
+        ],
+        [
+          "2026-12-23",
+          "Tutto il giorno",
+          ""
+        ],
+        [
+          "2026-12-24",
+          "Tutto il giorno",
+          ""
         ]
       ],
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "4d3da31f-c915-4320-a898-60db2531b016",
-      "updated_at": "2026-11-18T20:21:28Z"
+      "updated_at": "2026-11-18T20:23:47Z"
     }
   },
   "schema_version": 1
