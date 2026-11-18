@@ -1,5 +1,20 @@
 {
   "doctor": "Allegra",
-  "months": {},
+  "months": {
+    "2026-12": {
+      "base_signature": [],
+      "entries": [
+        [
+          "2026-12-11",
+          "Ferie",
+          ""
+        ]
+      ],
+      "pref_base_signature": [],
+      "pref_entries": [],
+      "session_id": "046f4b8b-53cf-4f7b-8db4-baaf6c937000",
+      "updated_at": "2026-11-18T18:48:07Z"
+    }
+  },
   "schema_version": 1
 }
