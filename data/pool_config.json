@@ -7,13 +7,9 @@
         "AB",
         "E",
         "G",
-        "I",
-        "J",
-        "K",
-        "L",
         "T",
         "U",
-        "V"
+        "Y"
       ],
       "festivi_diurni": true,
       "festivi_notti": true,
@@ -547,6 +543,6 @@
       "fallback": "any"
     }
   },
-  "updated_at": "2026-11-18T06:33:30Z",
+  "updated_at": "2026-11-18T06:34:37Z",
   "updated_by": "admin"
 }
