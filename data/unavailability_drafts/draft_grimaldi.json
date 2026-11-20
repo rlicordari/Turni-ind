@@ -49,45 +49,6 @@
       "pref_entries": [],
       "session_id": "76601d76-9780-48c8-8b06-dcdc6ec68420",
       "updated_at": "2026-11-20T06:48:17Z"
-    },
-    "2027-01": {
-      "base_signature": [],
-      "entries": [
-        [
-          "2027-01-01",
-          "Ferie",
-          ""
-        ],
-        [
-          "2027-01-02",
-          "Ferie",
-          ""
-        ],
-        [
-          "2027-01-03",
-          "Ferie",
-          ""
-        ],
-        [
-          "2027-01-04",
-          "Ferie",
-          ""
-        ],
-        [
-          "2027-01-05",
-          "Ferie",
-          ""
-        ],
-        [
-          "2027-01-06",
-          "Ferie",
-          ""
-        ]
-      ],
-      "pref_base_signature": [],
-      "pref_entries": [],
-      "session_id": "76601d76-9780-48c8-8b06-dcdc6ec68420",
-      "updated_at": "2026-11-20T06:48:09Z"
     }
   },
   "schema_version": 1
