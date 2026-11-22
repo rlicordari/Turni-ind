@@ -101,11 +101,6 @@
           ""
         ],
         [
-          "2026-12-14",
-          "Ferie",
-          ""
-        ],
-        [
           "2026-12-18",
           "Notte",
           ""
@@ -122,9 +117,16 @@
         ]
       ],
       "pref_base_signature": [],
-      "pref_entries": [],
-      "session_id": "9dc1779c-c482-49c1-9bfd-546c3776c016",
-      "updated_at": "2026-11-22T15:05:50Z"
+      "pref_entries": [
+        [
+          "2026-12-14",
+          "Notte",
+          "",
+          "media"
+        ]
+      ],
+      "session_id": "231a4060-e606-407c-9a47-8ad42ea687c8",
+      "updated_at": "2026-11-22T15:08:02Z"
     }
   },
   "schema_version": 1
