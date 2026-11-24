@@ -1,50 +1,5 @@
 {
   "doctor": "Cusmà",
-  "months": {
-    "2027-01": {
-      "base_signature": [],
-      "entries": [
-        [
-          "2027-01-01",
-          "Tutto il giorno",
-          ""
-        ],
-        [
-          "2027-01-02",
-          "Tutto il giorno",
-          ""
-        ],
-        [
-          "2027-01-03",
-          "Tutto il giorno",
-          ""
-        ],
-        [
-          "2027-01-04",
-          "Tutto il giorno",
-          ""
-        ],
-        [
-          "2027-01-05",
-          "Tutto il giorno",
-          ""
-        ],
-        [
-          "2027-01-06",
-          "Tutto il giorno",
-          ""
-        ],
-        [
-          "2027-01-07",
-          "Tutto il giorno",
-          ""
-        ]
-      ],
-      "pref_base_signature": [],
-      "pref_entries": [],
-      "session_id": "f0299348-e397-486e-b571-aff56d15ef31",
-      "updated_at": "2026-11-16T22:48:12Z"
-    }
-  },
+  "months": {},
   "schema_version": 1
 }
