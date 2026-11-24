@@ -319,29 +319,30 @@
       "no_sabato_diurno": false,
       "esente_weekend_liberi": false,
       "universitario": null,
-      "mai_notti": false,
+      "mai_notti": true,
       "lunedi_V_U_con": [],
       "services": {
-        "D": {
-          "level": "riserva"
+        "L": {
+          "level": "pool"
         },
-        "F": {
-          "level": "riserva"
+        "Q": {
+          "level": "pool"
         },
-        "EG": {
-          "level": "riserva"
+        "T": {
+          "level": "pool"
         },
-        "H": {
-          "level": "riserva"
+        "U": {
+          "level": "pool"
         },
-        "I": {
-          "level": "riserva"
+        "Y": {
+          "level": "pool"
         },
-        "J": {
-          "level": "riserva",
-          "notti_weekend": true,
-          "weekend_min": null,
-          "weekend_max": null
+        "Z": {
+          "level": "pool"
+        },
+        "AB": {
+          "level": "pool",
+          "sabato": false
         }
       },
       "note": ""
@@ -1063,6 +1064,6 @@
       "fallback": "any"
     }
   },
-  "updated_at": "2026-11-24T17:36:22Z",
+  "updated_at": "2026-11-24T17:38:05Z",
   "updated_by": "admin"
 }
