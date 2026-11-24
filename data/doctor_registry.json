@@ -1,0 +1,1068 @@
+{
+  "schema_version": 2,
+  "doctors": {
+    "Allegra": {
+      "active": true,
+      "reperibilita": true,
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [
+        "Crea",
+        "Dattilo"
+      ],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "pool"
+        },
+        "H": {
+          "level": "riserva"
+        },
+        "I": {
+          "level": "pool"
+        },
+        "J": {
+          "level": "pool",
+          "notti_weekend": true,
+          "weekend_min": null,
+          "weekend_max": null
+        },
+        "K": {
+          "level": "pool"
+        },
+        "L": {
+          "level": "pool"
+        },
+        "T": {
+          "level": "pool"
+        },
+        "U": {
+          "level": "pool"
+        },
+        "V": {
+          "level": "pool",
+          "doppio": null
+        },
+        "AB": {
+          "level": "pool",
+          "sabato": false
+        }
+      },
+      "note": ""
+    },
+    "Calabrò": {
+      "active": true,
+      "reperibilita": true,
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": true,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "pool"
+        },
+        "F": {
+          "level": "pool"
+        },
+        "J": {
+          "level": "pool",
+          "quota": {
+            "type": "fixed",
+            "value": 2
+          },
+          "notti_weekend": false,
+          "weekend_min": null,
+          "weekend_max": null
+        }
+      },
+      "note": ""
+    },
+    "Carciotto": {
+      "active": false,
+      "reperibilita": false,
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {},
+      "note": ""
+    },
+    "Cimino": {
+      "active": false,
+      "reperibilita": true,
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "EG": {
+          "level": "pool"
+        },
+        "I": {
+          "level": "pool"
+        },
+        "J": {
+          "level": "pool",
+          "notti_weekend": true,
+          "weekend_min": null,
+          "weekend_max": null
+        },
+        "K": {
+          "level": "pool"
+        },
+        "L": {
+          "level": "pool"
+        },
+        "T": {
+          "level": "pool"
+        },
+        "U": {
+          "level": "pool",
+          "quota": {
+            "type": "fixed",
+            "value": 2
+          }
+        },
+        "AB": {
+          "level": "pool",
+          "sabato": false
+        }
+      },
+      "note": ""
+    },
+    "Colarusso": {
+      "active": true,
+      "reperibilita": true,
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "riserva"
+        },
+        "H": {
+          "level": "pool"
+        },
+        "I": {
+          "level": "riserva"
+        },
+        "J": {
+          "level": "pool",
+          "notti_weekend": true,
+          "weekend_min": null,
+          "weekend_max": null
+        },
+        "K": {
+          "level": "pool"
+        },
+        "L": {
+          "level": "pool"
+        },
+        "Q": {
+          "level": "pool"
+        },
+        "R": {
+          "level": "pool"
+        },
+        "T": {
+          "level": "pool"
+        },
+        "Y": {
+          "level": "pool"
+        }
+      },
+      "note": ""
+    },
+    "Crea": {
+      "active": true,
+      "reperibilita": true,
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "pool"
+        },
+        "H": {
+          "level": "riserva"
+        },
+        "I": {
+          "level": "pool"
+        },
+        "J": {
+          "level": "pool",
+          "notti_weekend": true,
+          "weekend_min": null,
+          "weekend_max": null
+        },
+        "K": {
+          "level": "pool"
+        },
+        "U": {
+          "level": "pool"
+        },
+        "V": {
+          "level": "pool",
+          "doppio": "titolare"
+        },
+        "AB": {
+          "level": "pool",
+          "sabato": true
+        }
+      },
+      "note": ""
+    },
+    "Cusmà": {
+      "active": true,
+      "reperibilita": true,
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "riserva"
+        },
+        "H": {
+          "level": "pool"
+        },
+        "I": {
+          "level": "riserva"
+        },
+        "J": {
+          "level": "pool",
+          "notti_weekend": true,
+          "weekend_min": null,
+          "weekend_max": null
+        },
+        "K": {
+          "level": "pool"
+        },
+        "L": {
+          "level": "pool"
+        },
+        "Q": {
+          "level": "pool"
+        },
+        "R": {
+          "level": "pool"
+        },
+        "S": {
+          "level": "pool"
+        },
+        "Z": {
+          "level": "pool"
+        }
+      },
+      "note": ""
+    },
+    "D'Angelo": {
+      "active": true,
+      "reperibilita": false,
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "riserva"
+        },
+        "H": {
+          "level": "riserva"
+        },
+        "I": {
+          "level": "riserva"
+        },
+        "J": {
+          "level": "riserva",
+          "notti_weekend": true,
+          "weekend_min": null,
+          "weekend_max": null
+        }
+      },
+      "note": ""
+    },
+    "Dattilo": {
+      "active": true,
+      "reperibilita": true,
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": {
+        "ratio": 0.6,
+        "notte_doppia": true
+      },
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "pool"
+        },
+        "H": {
+          "level": "riserva"
+        },
+        "I": {
+          "level": "pool"
+        },
+        "J": {
+          "level": "pool",
+          "quota": {
+            "type": "fixed",
+            "value": 2
+          },
+          "notti_weekend": true,
+          "weekend_min": null,
+          "weekend_max": null
+        },
+        "U": {
+          "level": "pool"
+        },
+        "V": {
+          "level": "pool",
+          "doppio": "secondo"
+        },
+        "AB": {
+          "level": "pool",
+          "sabato": false
+        }
+      },
+      "note": ""
+    },
+    "De Gregorio": {
+      "active": true,
+      "reperibilita": false,
+      "festivi_diurni": true,
+      "festivi_notti": false,
+      "festivi_quota": 1,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": {
+        "ratio": 0.6,
+        "notte_doppia": false
+      },
+      "mai_notti": true,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "pool"
+        },
+        "H": {
+          "level": "riserva"
+        },
+        "I": {
+          "level": "pool",
+          "quota": {
+            "type": "max",
+            "value": 3
+          }
+        },
+        "K": {
+          "level": "pool"
+        },
+        "Z": {
+          "level": "pool"
+        }
+      },
+      "note": ""
+    },
+    "De Luca": {
+      "active": false,
+      "reperibilita": false,
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {},
+      "note": ""
+    },
+    "Grimaldi": {
+      "active": true,
+      "reperibilita": true,
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": true,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "pool"
+        },
+        "F": {
+          "level": "pool"
+        }
+      },
+      "note": ""
+    },
+    "Licordari": {
+      "active": true,
+      "reperibilita": true,
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "riserva"
+        },
+        "H": {
+          "level": "pool"
+        },
+        "I": {
+          "level": "riserva"
+        },
+        "J": {
+          "level": "pool",
+          "notti_weekend": true,
+          "weekend_min": null,
+          "weekend_max": null
+        },
+        "K": {
+          "level": "pool"
+        },
+        "L": {
+          "level": "pool"
+        },
+        "Q": {
+          "level": "pool"
+        },
+        "R": {
+          "level": "pool"
+        },
+        "T": {
+          "level": "pool"
+        },
+        "Y": {
+          "level": "pool"
+        },
+        "Z": {
+          "level": "pool"
+        }
+      },
+      "note": ""
+    },
+    "Manganaro": {
+      "active": true,
+      "reperibilita": false,
+      "festivi_diurni": true,
+      "festivi_notti": false,
+      "festivi_quota": 2,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": true,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "pool"
+        },
+        "H": {
+          "level": "pool"
+        },
+        "I": {
+          "level": "riserva"
+        },
+        "K": {
+          "level": "pool"
+        },
+        "L": {
+          "level": "pool"
+        },
+        "Q": {
+          "level": "pool"
+        },
+        "R": {
+          "level": "pool"
+        },
+        "T": {
+          "level": "pool"
+        },
+        "Z": {
+          "level": "pool"
+        }
+      },
+      "note": ""
+    },
+    "Migliorato": {
+      "active": true,
+      "reperibilita": true,
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "riserva"
+        },
+        "H": {
+          "level": "pool"
+        },
+        "I": {
+          "level": "riserva"
+        },
+        "J": {
+          "level": "pool",
+          "notti_weekend": true,
+          "weekend_min": null,
+          "weekend_max": null
+        },
+        "W": {
+          "level": "pool",
+          "giorni_fissi": []
+        },
+        "AC": {
+          "level": "pool"
+        }
+      },
+      "note": ""
+    },
+    "Pugliatti": {
+      "active": true,
+      "reperibilita": true,
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "pool"
+        },
+        "H": {
+          "level": "riserva"
+        },
+        "I": {
+          "level": "pool"
+        },
+        "J": {
+          "level": "pool",
+          "notti_weekend": true,
+          "weekend_min": null,
+          "weekend_max": null
+        },
+        "K": {
+          "level": "pool"
+        },
+        "L": {
+          "level": "pool"
+        },
+        "Q": {
+          "level": "pool"
+        },
+        "T": {
+          "level": "pool"
+        },
+        "W": {
+          "level": "pool",
+          "giorni_fissi": [
+            "Tue"
+          ]
+        }
+      },
+      "note": ""
+    },
+    "Recupero": {
+      "active": true,
+      "reperibilita": false,
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "L": {
+          "level": "pool",
+          "quota": {
+            "type": "fixed",
+            "value": 3
+          }
+        },
+        "Q": {
+          "level": "pool",
+          "quota": {
+            "type": "max",
+            "value": 2
+          }
+        },
+        "R": {
+          "level": "pool"
+        },
+        "T": {
+          "level": "pool",
+          "quota": {
+            "type": "min",
+            "value": 4,
+            "target": 5
+          }
+        },
+        "W": {
+          "level": "pool",
+          "quota": {
+            "type": "max",
+            "value": 8
+          },
+          "giorni_fissi": []
+        }
+      },
+      "note": ""
+    },
+    "Rubino": {
+      "active": true,
+      "reperibilita": true,
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "pool"
+        },
+        "EG": {
+          "level": "pool"
+        },
+        "H": {
+          "level": "pool"
+        },
+        "I": {
+          "level": "pool"
+        },
+        "J": {
+          "level": "pool",
+          "notti_weekend": true,
+          "weekend_min": null,
+          "weekend_max": null
+        },
+        "K": {
+          "level": "pool"
+        },
+        "L": {
+          "level": "pool"
+        },
+        "Q": {
+          "level": "pool"
+        },
+        "R": {
+          "level": "pool"
+        },
+        "T": {
+          "level": "pool"
+        }
+      },
+      "note": ""
+    },
+    "Saporito": {
+      "active": false,
+      "reperibilita": false,
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {},
+      "note": ""
+    },
+    "Trio": {
+      "active": true,
+      "reperibilita": true,
+      "festivi_diurni": true,
+      "festivi_notti": true,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "riserva"
+        },
+        "H": {
+          "level": "pool"
+        },
+        "I": {
+          "level": "riserva"
+        },
+        "J": {
+          "level": "pool",
+          "notti_weekend": true,
+          "weekend_min": null,
+          "weekend_max": null
+        },
+        "K": {
+          "level": "pool"
+        },
+        "L": {
+          "level": "pool"
+        },
+        "Q": {
+          "level": "pool"
+        },
+        "R": {
+          "level": "pool"
+        },
+        "T": {
+          "level": "pool"
+        }
+      },
+      "note": ""
+    },
+    "Virga": {
+      "active": false,
+      "reperibilita": false,
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": null,
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {},
+      "note": ""
+    },
+    "Zito": {
+      "active": true,
+      "reperibilita": false,
+      "festivi_diurni": false,
+      "festivi_notti": false,
+      "festivi_quota": null,
+      "no_sabato_diurno": false,
+      "esente_weekend_liberi": false,
+      "universitario": {
+        "ratio": 0.6,
+        "notte_doppia": true
+      },
+      "mai_notti": false,
+      "lunedi_V_U_con": [],
+      "services": {
+        "D": {
+          "level": "riserva"
+        },
+        "F": {
+          "level": "riserva"
+        },
+        "EG": {
+          "level": "riserva"
+        },
+        "H": {
+          "level": "riserva"
+        },
+        "I": {
+          "level": "riserva"
+        },
+        "J": {
+          "level": "pool",
+          "quota": {
+            "type": "fixed",
+            "value": 2
+          },
+          "notti_weekend": true,
+          "weekend_min": 1,
+          "weekend_max": 1
+        },
+        "Q": {
+          "level": "pool"
+        },
+        "R": {
+          "level": "pool"
+        },
+        "S": {
+          "level": "pool"
+        }
+      },
+      "note": ""
+    }
+  },
+  "column_settings": {
+    "J": {
+      "monthly_target": 2,
+      "spacing_min_days": 5,
+      "spacing_preferred_days": 7,
+      "counts_as": 2
+    },
+    "C": {
+      "monthly_target": null,
+      "spacing_min_days": 3,
+      "counts_as": 0,
+      "spacing_preferred_days": 0
+    },
+    "AB": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "D": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "E": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "F": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "G": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "H": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "I": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "K": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "L": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "Q": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "R": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "S": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "T": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "U": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "V": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "W": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "Y": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    },
+    "Z": {
+      "monthly_target": null,
+      "spacing_min_days": 0,
+      "spacing_preferred_days": 0,
+      "counts_as": 1
+    }
+  },
+  "service_combinations": [
+    {
+      "columns": [
+        "K",
+        "T"
+      ],
+      "same_day": true,
+      "mode": "fallback"
+    }
+  ],
+  "critical_services": {
+    "D": {
+      "fallback": "any"
+    },
+    "E": {
+      "fallback": "any"
+    },
+    "F": {
+      "fallback": "any"
+    },
+    "H": {
+      "fallback": "any"
+    },
+    "I": {
+      "fallback": "any"
+    },
+    "J": {
+      "fallback": "any"
+    }
+  },
+  "updated_at": "2026-11-24T17:36:22Z",
+  "updated_by": "admin"
+}
