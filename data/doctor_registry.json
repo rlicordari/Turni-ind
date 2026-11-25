@@ -541,7 +541,7 @@
       "reperibilita": false,
       "festivi_diurni": true,
       "festivi_notti": false,
-      "festivi_quota": 2,
+      "festivi_quota": 1,
       "no_sabato_diurno": false,
       "esente_weekend_liberi": false,
       "universitario": null,
@@ -1064,6 +1064,6 @@
       "fallback": "any"
     }
   },
-  "updated_at": "2026-11-24T17:38:05Z",
+  "updated_at": "2026-11-25T19:56:37Z",
   "updated_by": "admin"
 }
