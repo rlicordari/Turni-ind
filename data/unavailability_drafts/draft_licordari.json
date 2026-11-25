@@ -305,6 +305,11 @@
         ],
         [
           "2026-12-03",
+          "Diurno",
+          ""
+        ],
+        [
+          "2026-12-03",
           "Mattina",
           ""
         ],
@@ -412,7 +417,7 @@
       "pref_base_signature": [],
       "pref_entries": [],
       "session_id": "079aefbb-af1d-466d-8963-4a9110e92c35",
-      "updated_at": "2026-11-25T20:24:39Z"
+      "updated_at": "2026-11-25T20:24:50Z"
     }
   },
   "schema_version": 1
